@@ -1,0 +1,601 @@
+order_id,customer_id,customer_name,order_date,product,category,quantity,unit_price,discount_pct,total_amount,city,state,payment_method,order_status,sales_channel,customer_rating,email,is_premium_customer
+ORD100001,CUST1082,Kiran,2025-04-15,Mobile,Electronics,3,28339.26,5.0,80766.9,Pune,Maharashtra,UPI,Cancelled,Marketplace,1.0,cust1082@example.com,True
+ORD100002,CUST1012,Kiran,2025-07-23,Keyboard,Accessories,5,1629.55,20.0,6518.21,Hyderabad,Telangana,Net Banking,Completed,Marketplace,5.0,cust1012@example.com,False
+ORD100003,CUST1104,Akash,2025-08-09,Laptop,Electronics,4,62112.33,10.0,223604.38,Bangalore,Karnataka,UPI,Completed,Marketplace,1.0,cust1104@example.com,False
+ORD100004,CUST1109,Pooja,2025-05-08,Monitor,Electronics,1,11902.62,,11902.62,Delhi,Delhi,UPI,Cancelled,Store,,cust1109@example.com,False
+ORD100005,CUST1114,Sneha,2025-10-24,Monitor,Electronics,1,12387.03,0.0,12387.03,Hyderabad,Telangana,Credit Card,Completed,Marketplace,3.0,cust1114@example.com,False
+ORD100006,CUST1082,Sneha,2025-10-01,Monitor,Electronics,3,11302.82,10.0,30517.61,Bangalore,Karnataka,Cash,Returned,Mobile App,5.0,cust1082@example.com,False
+ORD100007,CUST1032,Kiran,2026-10-18,Headphones,Electronics,4,2744.76,10.0,9881.14,Nashik,Maharashtra,Credit Card,Returned,Store,1.0,cust1032@example.com,True
+ORD100008,CUST1106,Akash,2026-08-04,Laptop,Electronics,4,59360.45,10.0,213697.63,Chennai,Tamil Nadu,Credit Card,Returned,Marketplace,4.0,cust1106@example.com,False
+ORD100009,CUST1059,Neha,2026-07-06,Headphones,Electronics,2,2622.49,5.0,4982.74,Delhi,Delhi,Cash,Pending,Marketplace,3.0,cust1059@example.com,True
+ORD100010,CUST1018,Rahul,2025-06-06,Desk,Furniture,1,11794.43,0.0,11794.43,Nashik,Maharashtra,Net Banking,Cancelled,Website,4.0,cust1018@example.com,False
+ORD100011,CUST1077,Kiran,2025-04-28,Office Chair,Furniture,5,8806.48,0.0,44032.41,Delhi,Delhi,Debit Card,Returned,Store,1.0,cust1077@example.com,False
+ORD100012,CUST1056,Kiran,2025-09-27,Headphones,Electronics,1,2687.93,,2687.93,Nashik,Maharashtra,Credit Card,Cancelled,Website,,cust1056@example.com,False
+ORD100013,CUST1108,Kiran,2026-07-07,Desk,Furniture,2,11577.52,10.0,20839.54,Hyderabad,Telangana,UPI,Cancelled,Store,4.0,cust1108@example.com,True
+ORD100014,CUST1015,Sneha,2026-08-04,Monitor,Electronics,2,11378.09,0.0,22756.18,Delhi,Delhi,UPI,Returned,Marketplace,1.0,cust1015@example.com,False
+ORD100015,CUST1099,Anjali,2026-06-25,Headphones,Electronics,4,2332.56,20.0,7464.2,Bangalore,Karnataka,Net Banking,Completed,Mobile App,,cust1099@example.com,False
+ORD100016,CUST1052,Sneha,2025-08-19,Monitor,Electronics,5,11090.41,15.0,47134.24,Nashik,Maharashtra,Debit Card,Completed,Mobile App,5.0,cust1052@example.com,True
+ORD100017,CUST1001,Sneha,2025-12-05,Mobile,Electronics,2,32432.52,0.0,64865.04,Pune,Maharashtra,Cash,Completed,Store,,cust1001@example.com,False
+ORD100018,CUST1028,Pooja,2026-04-30,Desk,Furniture,5,10939.88,20.0,43759.51,Bangalore,Karnataka,Credit Card,Completed,Website,,cust1028@example.com,False
+ORD100019,CUST1046,Sneha,2026-11-01,Backpack,Accessories,4,2003.84,,8015.34,Nagpur,Maharashtra,UPI,Pending,Store,1.0,cust1046@example.com,True
+ORD100020,CUST1025,Priya,2026-04-19,Keyboard,Accessories,2,1686.06,15.0,2866.29,Nashik,Maharashtra,UPI,Pending,Website,1.0,CUST1025@EXAMPLE.COM,False
+ORD100021,CUST1070,Priya,2026-05-08,Laptop,Electronics,2,63783.38,5.0,121188.43,Mumbai,Maharashtra,Net Banking,Completed,Mobile App,4.0,cust1070@example.com,True
+ORD100022,CUST1050,Rohan,2026-07-24,Mouse,Accessories,3,935.39,15.0,2385.24,Nashik,Maharashtra,Credit Card,Completed,Store,2.0,cust1050@example.com,True
+ORD100023,CUST1075,Kiran,2026-05-04,Desk,Furniture,3,10010.31,0.0,30030.94,Pune,Maharashtra,Cash,Completed,Website,5.0,cust1075@example.com,True
+ORD100024,CUST1109,Pooja,2025-08-29,Headphones,Electronics,5,2587.61,0.0,12938.03,Mumbai,Maharashtra,UPI,Cancelled,Mobile App,5.0,cust1109@example.com,False
+ORD100025,CUST1006,Akash,2026-06-20,Tablet,Electronics,4,22368.16,,89472.63,Mumbai,Maharashtra,Debit Card,Completed,Store,2.0,cust1006@example.com,False
+ORD100026,CUST1051,Amit,2025-03-16,Headphones,Electronics,4,2714.51,10.0,9772.23,Delhi,Delhi,Net Banking,Cancelled,Website,1.0,cust1051@example.com,False
+ORD100027,CUST1028,Akash,2025-09-08,Desk,Furniture,2,11837.9,10.0,21308.22,Delhi,Delhi,Debit Card,Completed,Marketplace,5.0,cust1028@example.com,False
+ORD100028,CUST1039,Rahul,2025-04-17,Tablet,Electronics,5,23899.73,10.0,107548.77,Pune,Maharashtra,Debit Card,Completed,Website,,cust1039@example.com,False
+ORD100029,CUST1020,Neha,2025-07-28,Mouse,Accessories,5,939.17,5.0,4461.06,Delhi,Delhi,Cash,Pending,Store,1.0,cust1020@example.com,True
+ORD100030,CUST1082, neha ,2025-05-14,Backpack,Accessories,1,2126.76,0.0,2126.76,Delhi,Delhi,Credit Card,Returned,Marketplace,5.0,cust1082@example.com,False
+ORD100031,CUST1055,Rahul,2026-12-09,Desk,Furniture,1,11979.11,0.0,11979.11,Pune,Maharashtra,Cash,Completed,Store,5.0,cust1055@example.com,False
+ORD100032,CUST1019,Akash,2025-02-10,Backpack,Accessories,1,2140.45,10.0,1926.4,Bangalore,Karnataka,Credit Card,Returned,Mobile App,,cust1019@example.com,True
+ORD100033,CUST1046,Rahul,2025-08-31,Desk,Furniture,5,10240.02,,51200.09,Nagpur,Maharashtra,Credit Card,Pending,Website,2.0,cust1046@example.com,False
+ORD100034,CUST1119,Sneha,2026-12-20,Monitor,Electronics,2,11182.07,10.0,20127.73,Nagpur,Maharashtra,Net Banking,Completed,Marketplace,2.0,cust1119@example.com,True
+ORD100035,CUST1105,Priya,2026-11-07,Office Chair,Furniture,3,8028.97,5.0,22882.56,Chennai,Tamil Nadu,Net Banking,Completed,Store,1.0,cust1105@example.com,False
+ORD100036,CUST1045,Neha,2025-04-29,Desk,Furniture,5,11966.32,10.0,53848.45,Nagpur,Maharashtra,Credit Card,Cancelled,Store,1.0,cust1045@example.com,True
+ORD100037,CUST1077,Sneha,2026-06-08,Backpack,Accessories,3,2246.73,15.0,5729.17,Chennai,Tamil Nadu,Net Banking,Cancelled,Mobile App,3.0,cust1077@example.com,True
+ORD100038,CUST1091,Priya,2026-11-18,Backpack,Accessories,5,2282.22,20.0,9128.87,Pune,Maharashtra,Debit Card,Pending,Website,,cust1091@example.com,False
+ORD100039,CUST1080,Akash,2026-02-23,Monitor,Electronics,3,11542.28,20.0,27701.48,Mumbai,Maharashtra,Net Banking,Returned,Store,5.0,cust1080@example.com,True
+ORD100040,CUST1025,Kiran,2026-02-20,Backpack,Accessories,2,2230.41,20.0,3568.65,Nagpur,Maharashtra,UPI,Completed,Store,2.0,cust1025@example.com,False
+ORD100041,CUST1101,Kiran,2025-08-07,Tablet,Electronics,4,21745.5,15.0,73934.71,Chennai,Tamil Nadu,Net Banking,Returned,Mobile App,,cust1101@example.com,True
+ORD100042,CUST1037,Priya,2025-08-19,Desk,Furniture,1,11380.15,5.0,10811.14,Chennai,Tamil Nadu,Credit Card,Completed,Website,2.0,cust1037@example.com,False
+ORD100043,CUST1079,Pooja,2026-12-15,Mobile,Electronics,4,30454.03,,121816.1,Nashik,Maharashtra,Net Banking,Pending,Mobile App,2.0,cust1079@example.com,False
+ORD100044,CUST1089,Kiran,2026-12-14,Laptop,Electronics,4,60786.53,5.0,230988.8,Mumbai,Maharashtra,Net Banking,Completed,Mobile App,1.0,CUST1089@EXAMPLE.COM,False
+ORD100045,CUST1018,Pooja,2026-06-01,Office Chair,Furniture,4,9035.51,20.0,28913.64,Chennai,Tamil Nadu,Cash,Pending,Mobile App,,cust1018@example.com,False
+ORD100046,CUST1058,Neha,2025-09-02,Mouse,Accessories,3,897.23,20.0,2153.35,Hyderabad,Telangana,Net Banking,Completed,Store,2.0,cust1058@example.com,False
+ORD100047,CUST1043,Rahul,2026-12-12,Monitor,Electronics,2,11355.03,5.0,21574.55,Mumbai,Maharashtra,Credit Card,Completed,Marketplace,4.0,cust1043@example.com,False
+ORD100048,CUST1070,Anjali,2026-02-03,Office Chair,Furniture,1,9065.91,5.0,8612.62,Nagpur,Maharashtra,UPI,Cancelled,Marketplace,4.0,cust1070@example.com,True
+ORD100049,CUST1046,Anjali,2026-07-14,Mouse,Accessories,4,944.55,20.0,3022.57,Nagpur,Maharashtra,Credit Card,Pending,Mobile App,3.0,cust1046@example.com,False
+ORD100050,CUST1063,Rahul,2026-02-19,Laptop,Electronics,3,67328.84,,201986.53,Nagpur,Maharashtra,Net Banking,Completed,Website,4.0,cust1063@example.com,False
+ORD100051,CUST1073,Amit,2025-07-06,Laptop,Electronics,4,69769.07,5.0,265122.46,Mumbai,Maharashtra,Debit Card,Pending,Store,2.0,cust1073@example.com,False
+ORD100052,CUST1042,Rohan,2025-03-25,Monitor,Electronics,3,11405.45,15.0,29083.9,Nagpur,Maharashtra,UPI,Returned,Website,3.0,cust1042@example.com,True
+ORD100053,CUST1084,Anjali,2025-01-21,Mobile,Electronics,1,28196.16,5.0,26786.36,Pune,Maharashtra,Credit Card,Completed,Mobile App,4.0,cust1084@example.com,False
+ORD100054,CUST1015,Rahul,2026-01-13,Tablet,Electronics,4,20927.47,,83709.89,Hyderabad,Telangana,Cash,Cancelled,Website,2.0,cust1015@example.com,False
+ORD100055,CUST1014,Pooja,2026-01-20,Tablet,Electronics,3,22780.33,20.0,54672.79,Pune,Maharashtra,Credit Card,Completed,Mobile App,1.0,cust1014@example.com,False
+ORD100056,CUST1099,Akash,2026-03-15,Mouse,Accessories,5,872.5,0.0,4362.48,Mumbai,Maharashtra,UPI,Cancelled,Store,1.0,cust1099@example.com,False
+ORD100057,CUST1106,Rahul,2026-04-16,Office Chair,Furniture,4,8730.49,10.0,31429.78,Mumbai,Maharashtra,Net Banking,Completed,Store,5.0,cust1106@example.com,False
+ORD100058,CUST1100,Priya,2025-11-27,Office Chair,Furniture,4,8657.21,,34628.83,Nashik,Maharashtra,UPI,Completed,Marketplace,2.0,cust1100@example.com,False
+ORD100059,CUST1073,Rahul,2025-11-29,Tablet,Electronics,3,21974.95,0.0,65924.85,Nagpur,Maharashtra,Net Banking,Completed,Store,3.0,cust1073@example.com,False
+ORD100060,CUST1036,Sneha,2025-07-15,Tablet,Electronics,5,22073.16,0.0,110365.8,Delhi,Delhi,Credit Card,Returned,Marketplace,4.0,cust1036@example.com,False
+ORD100061,CUST1098,Neha,2025-04-06,Keyboard,Accessories,4,1905.46,15.0,6478.55,Nashik,Maharashtra,Credit Card,Pending,Mobile App,3.0,cust1098@example.com,False
+ORD100062,CUST1075,Akash,2026-07-18,Monitor,Electronics,5,11625.02,20.0,46500.07,Nashik,Maharashtra,Debit Card,Returned,Marketplace,3.0,cust1075@example.com,False
+ORD100063,CUST1033,Rahul,2026-07-03,Keyboard,Accessories,2,1663.04,10.0,2993.47,Mumbai,Maharashtra,Credit Card,Completed,Marketplace,3.0,cust1033@example.com,False
+ORD100064,CUST1076,Rahul,2026-01-05,Desk,Furniture,1,10551.74,5.0,10024.16,Delhi,Delhi,Debit Card,Completed,Mobile App,3.0,cust1076@example.com,True
+ORD100065,CUST1007,Sneha,2026-05-18,Desk,Furniture,2,11810.61,,23621.23,Delhi,Delhi,UPI,Cancelled,Store,4.0,cust1007@example.com,False
+ORD100066,CUST1057,Sneha,2026-05-05,Monitor,Electronics,1,13058.55,10.0,11752.7,Bangalore,Karnataka,UPI,Pending,Marketplace,1.0,cust1057@example.com,False
+ORD100067,CUST1081,Priya,2025-03-29,Laptop,Electronics,2,70838.63,20.0,113341.81,Bangalore,Karnataka,UPI,Cancelled,Marketplace,5.0,cust1081@example.com,False
+ORD100068,CUST1102,Neha,2026-03-30,Tablet,Electronics,5,21782.26,15.0,92574.62,Hyderabad,Telangana,Cash,Pending,Store,5.0,cust1102@example.com,False
+ORD100069,CUST1008,Sneha,2026-11-08,Tablet,Electronics,2,20728.51,,41457.02,Mumbai,Maharashtra,Credit Card,Completed,Mobile App,5.0,cust1008@example.com,True
+ORD100070,CUST1021,Amit,2025-10-26,Laptop,Electronics,4,66219.55,,264878.18,Nagpur,Maharashtra,Credit Card,Completed,Store,,cust1021@example.com,False
+ORD100071,CUST1010,Pooja,2025-07-22,Keyboard,Accessories,5,1909.41,,9547.03,Delhi,Delhi,UPI,Cancelled,Mobile App,,cust1010@example.com,True
+ORD100072,CUST1117,Anjali,2025-11-11,Mouse,Accessories,1,839.87,0.0,839.87,Bangalore,Karnataka,Cash,Completed,Marketplace,1.0,cust1117@example.com,False
+ORD100073,CUST1089,Sneha,2026-03-25,Mouse,Accessories,3,907.2,20.0,2177.27,Nagpur,Maharashtra,Cash,Completed,Marketplace,,cust1089@example.com,False
+ORD100074,CUST1078,Anjali,2026-08-13,Mouse,Accessories,1,983.14,5.0,933.99,Pune,Maharashtra,UPI,Returned,Store,5.0,cust1078@example.com,True
+ORD100075,CUST1098,Rahul,2025-10-12,Headphones,Electronics,5,2471.11,,12355.57,Nashik,Maharashtra,Cash,Pending,Marketplace,1.0,cust1098@example.com,False
+ORD100076,CUST1045,Akash,2025-06-14,Backpack,Accessories,3,2026.02,,6078.07,Chennai,Tamil Nadu,Net Banking,Returned,Marketplace,3.0,cust1045@example.com,False
+ORD100077,CUST1052,Sneha,2025-11-28,Desk,Furniture,4,10591.94,0.0,42367.75,Pune,Maharashtra,Net Banking,Cancelled,Website,,cust1052@example.com,False
+ORD100078,CUST1060,Rohan,2026-05-26,Backpack,Accessories,2,2139.18,20.0,3422.69,Pune,Maharashtra,UPI,Completed,Store,5.0,cust1060@example.com,True
+ORD100079,CUST1119,Anjali,2026-10-08,Mouse,Accessories,4,815.2,0.0,3260.79,Nashik,Maharashtra,Credit Card,Returned,Mobile App,3.0,cust1119@example.com,False
+ORD100080,CUST1002,Rohan,2025-04-27,Desk,Furniture,1,12082.97,5.0,11478.82,Nagpur,Maharashtra,UPI,Returned,Mobile App,4.0,CUST1002@EXAMPLE.COM,False
+ORD100081,CUST1038,Rohan,2025-09-07,Desk,Furniture,4,12056.54,15.0,40992.23, Delhi ,Delhi,Cash,Completed,Marketplace,2.0,cust1038@example.com,False
+ORD100082,CUST1066,Neha,2026-06-04,Headphones,Electronics,3,2419.94,15.0,6170.84,Mumbai,Maharashtra,UPI,Completed,Store,5.0,cust1066@example.com,False
+ORD100083,CUST1085,Kiran,2025-12-07,Office Chair,Furniture,4,8473.38,20.0,27114.82,Bangalore,Karnataka,Cash,Pending,Marketplace,3.0,cust1085@example.com,True
+ORD100084,CUST1090,Pooja,2026-04-30,Keyboard,Accessories,2,1635.71,15.0,2780.71,Nagpur,Maharashtra,Net Banking,Returned,Mobile App,4.0,cust1090@example.com,True
+ORD100085,CUST1017,Amit,2026-04-13,Desk,Furniture,1,10119.37,15.0,8601.46,Chennai,Tamil Nadu,Credit Card,Pending,Mobile App,1.0,cust1017@example.com,False
+ORD100086,CUST1101,Akash,2025-03-24,Mouse,Accessories,5,881.55,,4407.73,Chennai,Tamil Nadu,Cash,Pending,Store,,cust1101@example.com,False
+ORD100087,CUST1114,Neha,2026-12-02,Office Chair,Furniture,5,8049.11,0.0,40245.55,Pune,Maharashtra,Credit Card,Returned,Website,4.0,cust1114@example.com,True
+ORD100088,CUST1098,Amit,2025-01-30,Mobile,Electronics,2,28796.8,,57593.59,Nashik,Maharashtra,Debit Card,Completed,Store,3.0,cust1098@example.com,False
+ORD100089,CUST1056,Rahul,2025-07-04,Headphones,Electronics,5,2532.96,15.0,10765.1,Hyderabad,Telangana,Credit Card,Completed,Marketplace,5.0,cust1056@example.com,False
+ORD100090,CUST1031,Neha,2026-04-16,Office Chair,Furniture,2,8734.44,15.0,14848.54,Bangalore,Karnataka,UPI,Pending,Store,,cust1031@example.com,False
+ORD100091,CUST1021,Neha,2026-03-11,Mobile,Electronics,3,28794.93,20.0,69107.82,Nashik,Maharashtra,Net Banking,Completed,Mobile App,4.0,cust1021@example.com,False
+ORD100092,CUST1014,Neha,2026-12-18,Keyboard,Accessories,5,1826.93,10.0,8221.2,Nagpur,Maharashtra,UPI,Returned,Marketplace,3.0,cust1014@example.com,True
+ORD100093,CUST1073,Priya,2025-12-27,Laptop,Electronics,3,66391.84,5.0,189216.76,Nashik,Maharashtra,Credit Card,Cancelled,Store,,cust1073@example.com,False
+ORD100094,CUST1099,Anjali,2025-02-04,Headphones,Electronics,1,2644.31,10.0,2379.87,Mumbai,Maharashtra,Debit Card,Returned,Mobile App,1.0,cust1099@example.com,False
+ORD100095,CUST1042,Kiran,2026-01-10,Backpack,Accessories,2,2326.07,5.0,4419.52,Bangalore,Karnataka,Cash,Completed,Mobile App,3.0,cust1042@example.com,False
+ORD100096,CUST1104,Priya,2025-05-25,Mouse,Accessories,1,983.32,15.0,835.82,Chennai,Tamil Nadu,Net Banking,Cancelled,Store,1.0,cust1104@example.com,False
+ORD100097,CUST1002,Neha,2026-11-20,Mouse,Accessories,4,931.11,10.0,3351.99,Mumbai,Maharashtra,Cash,Pending,Store,1.0,cust1002@example.com,False
+ORD100098,CUST1030,Priya,2026-09-17,Office Chair,Furniture,5,8207.61,20.0,32830.44,Pune,Maharashtra,UPI,Returned,Marketplace,,cust1030@example.com,False
+ORD100099,CUST1084,Rohan,2025-11-08,Backpack,Accessories,2,2396.36,0.0,4792.71,Mumbai,Maharashtra,UPI,Completed,Mobile App,5.0,cust1084@example.com,True
+ORD100100,CUST1050,Pooja,2025-06-08,Office Chair,Furniture,5,8648.48,15.0,36756.03,Chennai,Tamil Nadu,UPI,Pending,Marketplace,3.0,cust1050@example.com,True
+ORD100101,CUST1089,Sneha,2026-01-07,Monitor,Electronics,4,13081.33,15.0,44476.53,Hyderabad,Telangana,Debit Card,Cancelled,Store,1.0,cust1089@example.com,False
+ORD100102,CUST1036,Anjali,2026-10-20,Keyboard,Accessories,4,1858.6,0.0,7434.39,Mumbai,Maharashtra,UPI,Completed,Store,2.0,cust1036@example.com,True
+ORD100103,CUST1101,Priya,2025-08-10,Tablet,Electronics,1,20711.49,20.0,16569.19,Hyderabad,Telangana,Debit Card,Completed,Website,3.0,cust1101@example.com,True
+ORD100104,CUST1017,Rahul,2025-01-27,Desk,Furniture,2,11354.33,0.0,22708.65,Delhi,Delhi,UPI,Completed,Mobile App,5.0,cust1017@example.com,False
+ORD100105,CUST1003,Sneha,2026-06-23,Headphones,Electronics,1,2620.86,5.0,2489.82,Delhi,Delhi,UPI,Pending,Marketplace,3.0,cust1003@example.com,False
+ORD100106,CUST1076,Kiran,2025-02-14,Mobile,Electronics,5,32672.49,5.0,155194.35,Nashik,Maharashtra,Debit Card,Pending,Website,1.0,cust1076@example.com,False
+ORD100107,CUST1109,Sneha,2026-03-31,Backpack,Accessories,1,2293.46,15.0,1949.44,Nagpur,Maharashtra,UPI,Completed,Mobile App,1.0,cust1109@example.com,True
+ORD100108,CUST1036,Kiran,2026-04-10,Tablet,Electronics,4,22134.45,20.0,70830.24,Chennai,Tamil Nadu,Cash,Pending,Website,,cust1036@example.com,True
+ORD100109,CUST1110,Akash,2026-02-28,Desk,Furniture,4,11853.8,15.0,40302.92,Hyderabad,Telangana,Net Banking,Pending,Marketplace,,cust1110@example.com,True
+ORD100110,CUST1041,Rohan,2026-12-05,Backpack,Accessories,3,2399.58,10.0,6478.87,Chennai,Tamil Nadu,UPI,Completed,Website,1.0,cust1041@example.com,False
+ORD100111,CUST1013,Kiran,2026-07-30,Monitor,Electronics,5,12207.52,0.0,61037.58,Bangalore,Karnataka,Debit Card,Returned,Website,4.0,cust1013@example.com,False
+ORD100112,CUST1112,Anjali,2025-04-17,Backpack,Accessories,3,2117.48,20.0,5081.95,Pune,Maharashtra,Cash,Completed,Mobile App,,cust1112@example.com,False
+ORD100113,CUST1029,Anjali,2025-10-13,Mobile,Electronics,5,27689.31,10.0,124601.9,Chennai,Tamil Nadu,Credit Card,Pending,Website,5.0,cust1029@example.com,False
+ORD100114,CUST1107,Akash,2025-11-13,Mouse,Accessories,2,936.49,10.0,1685.67,Pune,Maharashtra,Debit Card,Completed,Mobile App,2.0,cust1107@example.com,False
+ORD100115,CUST1085,Sneha,2025-02-01,Backpack,Accessories,2,2258.6,,4517.19, Mumbai ,Maharashtra,Cash,Completed,Marketplace,4.0,cust1085@example.com,False
+ORD100116,CUST1044,Anjali,2026-08-05,Headphones,Electronics,3,2412.19,,7236.57,Chennai,Tamil Nadu,UPI,Completed,Mobile App,2.0,cust1044@example.com,False
+ORD100117,CUST1007,Rohan,2026-09-14,Mobile,Electronics,4,29544.09,,118176.35,Delhi,Delhi,Net Banking,Completed,Mobile App,5.0,cust1007@example.com,True
+ORD100118,CUST1045,Kiran,2026-05-14,Backpack,Accessories,3,2278.53,,6835.6,Mumbai,Maharashtra,Debit Card,Completed,Mobile App,4.0,cust1045@example.com,False
+ORD100119,CUST1008,Neha,2025-09-19,Laptop,Electronics,3,68475.54,5.0,195155.3,Hyderabad,Telangana,Debit Card,Completed,Website,4.0,cust1008@example.com,False
+ORD100120,CUST1056,Kiran,2026-05-28,Headphones,Electronics,4,2601.84,20.0,8325.87,Bangalore,Karnataka,Debit Card,Completed,Marketplace,,cust1056@example.com,True
+ORD100121,CUST1056,Pooja,2026-08-11,Laptop,Electronics,1,65984.87,10.0,59386.38,Nashik,Maharashtra,Net Banking,Completed,Website,4.0,cust1056@example.com,True
+ORD100122,CUST1042, priya ,2025-04-19,Headphones,Electronics,3,2468.36,0.0,7405.07,Nashik,Maharashtra,Net Banking,Cancelled,Marketplace,5.0,cust1042@example.com,True
+ORD100123,CUST1051,Kiran,2025-03-20,Mouse,Accessories,2,950.24,10.0,1710.43,Chennai,Tamil Nadu,UPI,Cancelled,Mobile App,3.0,cust1051@example.com,False
+ORD100124,CUST1094,Anjali,2025-06-27,Headphones,Electronics,1,2377.98,5.0,2259.08,Hyderabad,Telangana,Credit Card,Returned,Website,2.0,cust1094@example.com,False
+ORD100125,CUST1064,Akash,2026-10-02,Office Chair,Furniture,5,8730.01,,43650.04,Nashik,Maharashtra,Debit Card,Completed,Marketplace,1.0,cust1064@example.com,False
+ORD100126,CUST1057,Neha,2025-03-17,Mouse,Accessories,5,873.35,0.0,4366.75,Delhi,Delhi,Net Banking,Pending,Website,1.0,cust1057@example.com,False
+ORD100127,CUST1107,Rohan,2026-01-29,Mouse,Accessories,1,916.93,20.0,733.55,Mumbai,Maharashtra,Cash,Cancelled,Website,4.0,cust1107@example.com,False
+ORD100128,CUST1084,Rohan,2025-03-05,Keyboard,Accessories,5,1800.49,15.0,7652.09,Chennai,Tamil Nadu,UPI,Completed,Website,5.0,cust1084@example.com,False
+ORD100129,CUST1023,Rahul,2026-09-17,Laptop,Electronics,4,65312.89,15.0,222063.83, Hyderabad ,Telangana,Debit Card,Completed,Store,4.0,cust1023@example.com,False
+ORD100130,CUST1100,Pooja,2026-07-26,Monitor,Electronics,3,11591.26,0.0,34773.77,Pune,Maharashtra,Debit Card,Completed,Mobile App,3.0,cust1100@example.com,True
+ORD100131,CUST1075,Rahul,2026-02-06,Headphones,Electronics,3,2599.24,,7797.72,Chennai,Tamil Nadu,Cash,Returned,Website,3.0,cust1075@example.com,False
+ORD100132,CUST1049, kiran ,2026-03-10,Monitor,Electronics,5,12350.46,0.0,61752.3,Bangalore,Karnataka,Debit Card,Completed,Store,3.0,cust1049@example.com,True
+ORD100133,CUST1028,Sneha,2025-06-08,Monitor,Electronics,2,13199.94,5.0,25079.89,Nashik,Maharashtra,Debit Card,Completed,Website,,cust1028@example.com,False
+ORD100134,CUST1113,Anjali,2025-07-05,Tablet,Electronics,5,20478.71,15.0,87034.53, Bangalore ,Karnataka,Credit Card,Returned,Marketplace,1.0,cust1113@example.com,False
+ORD100135,CUST1047,Priya,2026-04-05,Keyboard,Accessories,5,1890.86,10.0,8508.87,Nashik,Maharashtra,Cash,Completed,Store,4.0,cust1047@example.com,True
+ORD100136,CUST1048,Kiran,2026-05-30,Tablet,Electronics,4,23223.75,10.0,83605.48,Nashik,Maharashtra,Net Banking,Completed,Mobile App,5.0,cust1048@example.com,True
+ORD100137,CUST1112,Kiran,2025-04-16,Mouse,Accessories,4,909.82,10.0,3275.34,Pune,Maharashtra,UPI,Completed,Website,2.0,cust1112@example.com,False
+ORD100138,CUST1058,Rohan,2025-08-16,Desk,Furniture,4,11982.11,0.0,47928.44,Bangalore,Karnataka,Debit Card,Completed,Marketplace,1.0,cust1058@example.com,False
+ORD100139,CUST1065,Akash,2025-01-29,Monitor,Electronics,4,11699.79,0.0,46799.16,Hyderabad,Telangana,UPI,Returned,Store,2.0,cust1065@example.com,True
+ORD100140,CUST1005,Amit,2026-09-23,Mouse,Accessories,2,894.44,,1788.88,Nashik,Maharashtra,UPI,Completed,Store,2.0,cust1005@example.com,True
+ORD100141,CUST1071,Amit,2025-05-05,Tablet,Electronics,1,20845.62,10.0,18761.06,Nagpur,Maharashtra,Credit Card,Pending,Marketplace,1.0,cust1071@example.com,True
+ORD100142,CUST1108,Neha,2025-05-28,Office Chair,Furniture,5,8061.29,20.0,32245.18,Pune,Maharashtra,Net Banking,Completed,Store,2.0,cust1108@example.com,False
+ORD100143,CUST1054, kiran ,2026-06-23,Headphones,Electronics,5,2283.84,10.0,10277.28,Mumbai,Maharashtra,Cash,Cancelled,Website,4.0,cust1054@example.com,False
+ORD100144,CUST1006,Akash,2025-03-11,Backpack,Accessories,3,1987.15,,5961.44,Chennai,Tamil Nadu,Credit Card,Returned,Website,5.0,cust1006@example.com,False
+ORD100145,CUST1097,Rahul,2026-10-21,Monitor,Electronics,1,12110.43,10.0,10899.39,Bangalore,Karnataka,Net Banking,Returned,Marketplace,,cust1097@example.com,True
+ORD100146,CUST1104, priya ,2025-02-14,Headphones,Electronics,4,2396.72,0.0,9586.89,Mumbai,Maharashtra,UPI,Completed,Store,5.0,cust1104@example.com,False
+ORD100147,CUST1105,Neha,2025-07-15,Desk,Furniture,3,11557.24,0.0,34671.72,Nashik,Maharashtra,Debit Card,Completed,Store,3.0,cust1105@example.com,True
+ORD100148,CUST1103,Akash,2026-01-31,Monitor,Electronics,4,11855.37,,47421.47,Nagpur,Maharashtra,Credit Card,Pending,Marketplace,3.0,cust1103@example.com,False
+ORD100149,CUST1035,Kiran,2025-07-04,Mobile,Electronics,1,30614.72,15.0,26022.51,Nagpur,Maharashtra,Debit Card,Completed,Website,1.0,cust1035@example.com,False
+ORD100150,CUST1085,Rohan,2025-06-20,Mouse,Accessories,4,939.18,20.0,3005.37,Delhi,Delhi,Debit Card,Pending,Website,,cust1085@example.com,False
+ORD100151,CUST1079,Akash,2026-02-20,Backpack,Accessories,1,2275.32,0.0,2275.32,Delhi,Delhi,Cash,Returned,Mobile App,1.0,cust1079@example.com,True
+ORD100152,CUST1109,Akash,2026-10-23,Tablet,Electronics,1,20095.83,5.0,19091.04,Nashik,Maharashtra,Debit Card,Pending,Website,5.0,cust1109@example.com,True
+ORD100153,CUST1087,Rahul,2026-08-11,Office Chair,Furniture,3,8947.24,15.0,22815.47,Chennai,Tamil Nadu,Cash,Completed,Marketplace,3.0,cust1087@example.com,False
+ORD100154,CUST1036,Pooja,2026-06-15,Keyboard,Accessories,1,1686.98,,1686.98,Mumbai,Maharashtra,Cash,Completed,Store,3.0,cust1036@example.com,False
+ORD100155,CUST1058,Rohan,2025-03-17,Keyboard,Accessories,4,1664.15,5.0,6323.77,Delhi,Delhi,Credit Card,Returned,Marketplace,1.0,cust1058@example.com,False
+ORD100156,CUST1109,Rahul,2025-11-04,Monitor,Electronics,1,12101.21,20.0,9680.97,Chennai,Tamil Nadu,Credit Card,Completed,Mobile App,1.0,cust1109@example.com,True
+ORD100157,CUST1102,Akash,2026-08-10,Headphones,Electronics,4,2430.45,0.0,9721.79,Hyderabad,Telangana,Net Banking,Cancelled,Mobile App,5.0,cust1102@example.com,True
+ORD100158,CUST1009,Anjali,2026-02-24,Mouse,Accessories,4,883.94,20.0,2828.62,Nagpur,Maharashtra,UPI,Completed,Store,,cust1009@example.com,True
+ORD100159,CUST1058,Rahul,2025-07-06,Office Chair,Furniture,2,8737.65,20.0,13980.24,Chennai,Tamil Nadu,Net Banking,Cancelled,Website,1.0,cust1058@example.com,False
+ORD100160,CUST1020,Akash,2025-08-19,Mouse,Accessories,2,978.25,10.0,1760.86,Bangalore,Karnataka,Cash,Completed,Website,3.0,cust1020@example.com,True
+ORD100161,CUST1082,Sneha,2026-07-01,Desk,Furniture,2,10566.21,,21132.43,Delhi,Delhi,Cash,Returned,Mobile App,5.0,cust1082@example.com,False
+ORD100162,CUST1020,Sneha,2025-01-30,Headphones,Electronics,5,2662.62,0.0,13313.09,Chennai,Tamil Nadu,UPI,Returned,Store,,cust1020@example.com,True
+ORD100163,CUST1099,Kiran,2026-10-05,Tablet,Electronics,5,19933.26,,99666.29,Nagpur,Maharashtra,Debit Card,Returned,Store,4.0,cust1099@example.com,True
+ORD100164,CUST1104,Rohan,2025-06-11,Backpack,Accessories,4,2282.99,0.0,9131.96,Delhi,Delhi,Net Banking,Pending,Marketplace,2.0,cust1104@example.com,False
+ORD100165,CUST1078,Pooja,2025-12-20,Headphones,Electronics,3,2744.01,,8232.04,Chennai,Tamil Nadu,Credit Card,Completed,Website,3.0,cust1078@example.com,True
+ORD100166,CUST1060,Neha,2025-02-21,Mobile,Electronics,4,27845.27,5.0,105812.01,Delhi,Delhi,Net Banking,Cancelled,Marketplace,2.0,cust1060@example.com,True
+ORD100167,CUST1105,Rohan,2026-06-12,Monitor,Electronics,2,11995.84,5.0,22792.09,Chennai,Tamil Nadu,Net Banking,Completed,Marketplace,1.0,cust1105@example.com,True
+ORD100168,CUST1051,Amit,2025-02-19,Desk,Furniture,2,11183.36,5.0,21248.38,Nashik,Maharashtra,Debit Card,Pending,Marketplace,3.0,cust1051@example.com,False
+ORD100169,CUST1002,Akash,2026-02-17,Mobile,Electronics,2,31365.05,10.0,56457.09,Nagpur,Maharashtra,UPI,Pending,Website,5.0,cust1002@example.com,False
+ORD100170,CUST1025,Neha,2026-07-18,Monitor,Electronics,1,12010.21,15.0,10208.68,Delhi,Delhi,Cash,Returned,Website,2.0,cust1025@example.com,True
+ORD100171,CUST1051,Anjali,2025-07-23,Monitor,Electronics,5,12611.92,10.0,56753.62,Chennai,Tamil Nadu,Cash,Pending,Website,1.0,cust1051@example.com,True
+ORD100172,CUST1018,Rahul,2026-06-12,Monitor,Electronics,5,11157.46,15.0,47419.19,Nashik,Maharashtra,Debit Card,Cancelled,Store,2.0,cust1018@example.com,False
+ORD100173,CUST1079,Anjali,2026-12-27,Mouse,Accessories,5,905.82,20.0,3623.28,Chennai,Tamil Nadu,Debit Card,Pending,Website,3.0,cust1079@example.com,False
+ORD100174,CUST1087,Amit,2026-12-06,Mobile,Electronics,5,31780.53,10.0,143012.38,Nagpur,Maharashtra,Cash,Pending,Store,,cust1087@example.com,False
+ORD100175,CUST1074,Anjali,2026-10-07,Keyboard,Accessories,5,1681.38,15.0,7145.88,Pune,Maharashtra,Net Banking,Completed,Mobile App,1.0,cust1074@example.com,False
+ORD100176,CUST1090,Pooja,2025-06-05,Mobile,Electronics,1,28882.15,15.0,24549.83,Hyderabad,Telangana,Credit Card,Pending,Marketplace,,cust1090@example.com,False
+ORD100177,CUST1008, kiran ,2026-05-05,Headphones,Electronics,5,2749.06,10.0,12370.78,Hyderabad,Telangana,Net Banking,Completed,Mobile App,4.0,cust1008@example.com,False
+ORD100178,CUST1044,Neha,2025-09-10,Desk,Furniture,3,10965.2,20.0,26316.47,Chennai,Tamil Nadu,Cash,Completed,Mobile App,3.0,cust1044@example.com,False
+ORD100179,CUST1091,Neha,2025-10-08,Keyboard,Accessories,3,1745.57,15.0,4451.2,Nashik,Maharashtra,UPI,Cancelled,Marketplace,4.0,cust1091@example.com,False
+ORD100180,CUST1099,Akash,2025-03-22,Headphones,Electronics,1,2727.66,10.0,2454.89,Delhi,Delhi,Net Banking,Returned,Store,,cust1099@example.com,False
+ORD100181,CUST1028,Anjali,2025-04-22,Keyboard,Accessories,5,1717.78,,8588.92,Delhi,Delhi,Cash,Completed,Mobile App,1.0,cust1028@example.com,False
+ORD100182,CUST1116,Rohan,2025-12-05,Desk,Furniture,2,10120.44,0.0,20240.87,Hyderabad,Telangana,UPI,Returned,Mobile App,1.0,cust1116@example.com,False
+ORD100183,CUST1119,Akash,2025-10-22,Headphones,Electronics,4,2575.27,15.0,8755.92,Nagpur,Maharashtra,Debit Card,Returned,Website,1.0,cust1119@example.com,False
+ORD100184,CUST1074,Amit,2025-06-30,Keyboard,Accessories,2,1937.61,15.0,3293.93,Pune,Maharashtra,Net Banking,Pending,Mobile App,,cust1074@example.com,False
+ORD100185,CUST1113,Neha,2025-12-10,Laptop,Electronics,3,66336.18,20.0,159206.83,Pune,Maharashtra,Net Banking,Returned,Marketplace,2.0,cust1113@example.com,False
+ORD100186,CUST1060,Neha,2026-04-15,Mouse,Accessories,1,839.25,10.0,755.32,Hyderabad,Telangana,Credit Card,Completed,Store,3.0,cust1060@example.com,False
+ORD100187,CUST1087,Kiran,2026-03-14,Keyboard,Accessories,5,1942.94,,9714.68,Bangalore,Karnataka,Debit Card,Completed,Marketplace,,cust1087@example.com,True
+ORD100188,CUST1024,Priya,2026-01-28,Headphones,Electronics,3,2253.42,5.0,6422.23,Nashik,Maharashtra,Net Banking,Completed,Store,3.0,cust1024@example.com,False
+ORD100189,CUST1093,Amit,2025-08-30,Tablet,Electronics,3,21382.03,,64146.09,Pune,Maharashtra,UPI,Pending,Store,2.0,cust1093@example.com,False
+ORD100190,CUST1088,Akash,2025-10-30,Desk,Furniture,1,11915.49,,11915.49,Delhi,Delhi,Cash,Completed,Mobile App,2.0,cust1088@example.com,False
+ORD100191,CUST1020,Kiran,2026-04-28,Office Chair,Furniture,4,8583.7,,34334.79,Chennai,Tamil Nadu,Credit Card,Completed,Website,5.0,cust1020@example.com,False
+ORD100192,CUST1068,Kiran,2026-07-15,Monitor,Electronics,5,10948.22,0.0,54741.1,Mumbai,Maharashtra,Credit Card,Cancelled,Mobile App,2.0,cust1068@example.com,False
+ORD100193,CUST1110,Rohan,2026-08-21,Desk,Furniture,1,10351.88,,10351.88,Nashik,Maharashtra,UPI,Cancelled,Marketplace,1.0,cust1110@example.com,False
+ORD100194,CUST1017,Neha,2026-04-19,Desk,Furniture,4,10027.02,20.0,32086.47,Nagpur,Maharashtra,UPI,Pending,Store,1.0,cust1017@example.com,False
+ORD100195,CUST1028,Kiran,2025-03-07,Tablet,Electronics,1,21315.93,15.0,18118.54,Mumbai,Maharashtra,UPI,Completed,Marketplace,1.0,cust1028@example.com,False
+ORD100196,CUST1053,Rohan,2026-01-27,Headphones,Electronics,4,2746.43,10.0,9887.14,Bangalore,Karnataka,Net Banking,Pending,Website,,cust1053@example.com,False
+ORD100197,CUST1112,Pooja,2026-07-05,Desk,Furniture,3,10292.64,0.0,30877.93,Bangalore,Karnataka,Cash,Completed,Mobile App,1.0,cust1112@example.com,True
+ORD100198,CUST1039,Rohan,2025-09-11,Office Chair,Furniture,5,9049.71,15.0,38461.28,Nagpur,Maharashtra,Debit Card,Completed,Store,2.0,cust1039@example.com,False
+ORD100199,CUST1098,Priya,2025-01-17,Mobile,Electronics,4,31596.32,20.0,101108.23,Pune,Maharashtra,Credit Card,Completed,Website,5.0,cust1098@example.com,True
+ORD100200,CUST1058,Priya,2026-03-26,Tablet,Electronics,2,19994.64,,39989.28,Pune,Maharashtra,Cash,Completed,Website,2.0,cust1058@example.com,False
+ORD100201,CUST1038,Priya,2025-11-25,Keyboard,Accessories,5,1898.11,20.0,7592.46,Chennai,Tamil Nadu,Debit Card,Completed,Mobile App,4.0,cust1038@example.com,False
+ORD100202,CUST1036,Pooja,2025-12-19,Laptop,Electronics,4,64943.07,20.0,207817.82,Bangalore,Karnataka,Cash,Completed,Marketplace,4.0,cust1036@example.com,True
+ORD100203,CUST1039,Neha,2025-08-19,Backpack,Accessories,5,2086.03,15.0,8865.61,Bangalore,Karnataka,Credit Card,Pending,Website,5.0,cust1039@example.com,False
+ORD100204,CUST1054,Sneha,2025-12-05,Desk,Furniture,4,10460.99,5.0,39751.76,Bangalore,Karnataka,Net Banking,Completed,Website,5.0,cust1054@example.com,False
+ORD100205,CUST1107,Amit,2026-09-10,Keyboard,Accessories,3,1862.52,15.0,4749.43,Pune,Maharashtra,UPI,Completed,Mobile App,4.0,cust1107@example.com,True
+ORD100206,CUST1112,Rohan,2025-05-01,Monitor,Electronics,1,13049.18,5.0,12396.72,Delhi,Delhi,Credit Card,Returned,Mobile App,4.0,cust1112@example.com,True
+ORD100207,CUST1071,Neha,2026-01-03,Monitor,Electronics,4,12080.76,15.0,41074.59,Delhi,Delhi,Debit Card,Completed,Marketplace,4.0,cust1071@example.com,True
+ORD100208,CUST1103,Anjali,2025-02-16,Office Chair,Furniture,2,8181.97,10.0,14727.54,Chennai,Tamil Nadu,Credit Card,Returned,Mobile App,1.0,cust1103@example.com,False
+ORD100209,CUST1071,Pooja,2025-08-24,Tablet,Electronics,3,20663.24,5.0,58890.24,Nagpur,Maharashtra,Cash,Completed,Marketplace,5.0,cust1071@example.com,False
+ORD100210,CUST1088,Rohan,2026-05-18,Monitor,Electronics,4,12340.07,,49360.27,Delhi,Delhi,Credit Card,Returned,Store,2.0,cust1088@example.com,True
+ORD100211,CUST1093,Kiran,2025-03-02,Desk,Furniture,2,12078.71,20.0,19325.94,Nashik,Maharashtra,UPI,Completed,Website,1.0,cust1093@example.com,False
+ORD100212,CUST1018,Akash,2026-04-12,Keyboard,Accessories,2,1698.74,0.0,3397.48,Mumbai,Maharashtra,UPI,Cancelled,Marketplace,,cust1018@example.com,False
+ORD100213,CUST1003,Kiran,2025-10-09,Laptop,Electronics,1,65382.43,0.0,65382.43,Nagpur,Maharashtra,Debit Card,Completed,Marketplace,2.0,cust1003@example.com,True
+ORD100214,CUST1118,Akash,2025-09-16,Mobile,Electronics,2,30718.69,5.0,58365.5,Bangalore,Karnataka,Debit Card,Pending,Website,3.0,cust1118@example.com,False
+ORD100215,CUST1059,Amit,2025-03-24,Tablet,Electronics,2,22809.78,10.0,41057.61, Hyderabad ,Telangana,UPI,Pending,Marketplace,4.0,cust1059@example.com,False
+ORD100216,CUST1061,Akash,2026-03-21,Laptop,Electronics,2,64998.16,0.0,129996.32,Pune,Maharashtra,Cash,Completed,Website,2.0,cust1061@example.com,True
+ORD100217,CUST1116,Neha,2026-12-02,Tablet,Electronics,3,23866.3,0.0,71598.9,Nashik,Maharashtra,Cash,Cancelled,Website,2.0,cust1116@example.com,False
+ORD100218,CUST1003,Priya,2026-08-01,Keyboard,Accessories,4,1727.74,0.0,6910.96,Bangalore,Karnataka,Cash,Pending,Store,4.0,cust1003@example.com,False
+ORD100219,CUST1018,Akash,2025-03-19,Mobile,Electronics,1,29622.53,0.0,29622.53,Chennai,Tamil Nadu,Cash,Cancelled,Marketplace,3.0,cust1018@example.com,True
+ORD100220,CUST1082,Pooja,2026-01-20,Mouse,Accessories,4,874.05,5.0,3321.37,Nashik,Maharashtra,Credit Card,Returned,Marketplace,1.0,cust1082@example.com,False
+ORD100221,CUST1038,Rahul,2026-12-30,Keyboard,Accessories,1,1675.52,10.0,1507.97,Mumbai,Maharashtra,Net Banking,Completed,Store,1.0,cust1038@example.com,True
+ORD100222,CUST1001,Rahul,2025-03-31,Mouse,Accessories,3,828.4,10.0,2236.68,Nashik,Maharashtra,Net Banking,Pending,Marketplace,1.0,cust1001@example.com,True
+ORD100223,CUST1012,Amit,2026-01-30,Monitor,Electronics,5,12682.65,20.0,50730.61,Mumbai,Maharashtra,Debit Card,Pending,Marketplace,1.0,cust1012@example.com,False
+ORD100224,CUST1116,Rahul,2026-01-25,Desk,Furniture,5,10273.08,20.0,41092.33,Hyderabad,Telangana,Credit Card,Completed,Store,3.0,cust1116@example.com,False
+ORD100225,CUST1019,Sneha,2026-05-11,Mobile,Electronics,4,29526.61,10.0,106295.81,Bangalore,Karnataka,Debit Card,Completed,Mobile App,,cust1019@example.com,False
+ORD100226,CUST1064,Pooja,2025-01-07,Tablet,Electronics,4,20396.15,0.0,81584.62,Hyderabad,Telangana,Debit Card,Cancelled,Marketplace,3.0,cust1064@example.com,False
+ORD100227,CUST1043,Priya,2026-12-13,Backpack,Accessories,3,2245.41,10.0,6062.61,Bangalore,Karnataka,Net Banking,Completed,Mobile App,4.0,cust1043@example.com,False
+ORD100228,CUST1038, akash ,2026-02-07,Office Chair,Furniture,3,8126.51,15.0,20722.6,Hyderabad,Telangana,UPI,Cancelled,Mobile App,5.0,cust1038@example.com,False
+ORD100229,CUST1024,Sneha,2025-10-26,Desk,Furniture,4,10361.23,,41444.91,Pune,Maharashtra,Net Banking,Returned,Marketplace,2.0,cust1024@example.com,False
+ORD100230,CUST1039,Sneha,2026-01-22,Keyboard,Accessories,2,1772.33,,3544.65,Delhi,Delhi,Net Banking,Cancelled,Marketplace,5.0,cust1039@example.com,False
+ORD100231,CUST1069,Kiran,2026-01-04,Desk,Furniture,5,11639.59,0.0,58197.93,Nagpur,Maharashtra,Cash,Returned,Website,1.0,cust1069@example.com,True
+ORD100232,CUST1085,Pooja,2026-10-23,Monitor,Electronics,5,12151.73,0.0,60758.64,Bangalore,Karnataka,Debit Card,Pending,Website,1.0,cust1085@example.com,True
+ORD100233,CUST1034,Anjali,2026-11-27,Keyboard,Accessories,4,1760.81,10.0,6338.91, Hyderabad ,Telangana,Cash,Completed,Store,1.0,cust1034@example.com,False
+ORD100234,CUST1014,Akash,2025-05-26,Mouse,Accessories,1,959.64,0.0,959.64,Nagpur,Maharashtra,Debit Card,Completed,Marketplace,2.0,cust1014@example.com,False
+ORD100235,CUST1062,Akash,2026-04-09,Monitor,Electronics,1,12532.79,15.0,10652.87,Nashik,Maharashtra,UPI,Completed,Website,,cust1062@example.com,True
+ORD100236,CUST1003,Kiran,2025-06-28,Monitor,Electronics,2,11385.39,,22770.78,Mumbai,Maharashtra,Credit Card,Completed,Marketplace,4.0,cust1003@example.com,True
+ORD100237,CUST1103,Amit,2026-02-10,Backpack,Accessories,2,2269.22,,4538.43,Bangalore,Karnataka,Cash,Completed,Marketplace,5.0,cust1103@example.com,False
+ORD100238,CUST1050,Anjali,2025-03-06,Laptop,Electronics,2,68280.23,10.0,122904.42,Hyderabad,Telangana,UPI,Cancelled,Mobile App,3.0,cust1050@example.com,False
+ORD100239,CUST1026,Akash,2026-06-25,Office Chair,Furniture,3,9116.48,,27349.45,Mumbai,Maharashtra,Cash,Pending,Marketplace,5.0,cust1026@example.com,True
+ORD100240,CUST1045,Neha,2026-12-24,Monitor,Electronics,5,12752.97,5.0,60576.62,Nashik,Maharashtra,Cash,Cancelled,Website,,cust1045@example.com,True
+ORD100241,CUST1041,Rahul,2026-12-12,Mobile,Electronics,3,28098.27,0.0,84294.8,Hyderabad,Telangana,Cash,Pending,Marketplace,5.0,cust1041@example.com,True
+ORD100242,CUST1074,Rahul,2026-12-12,Backpack,Accessories,2,2259.62,15.0,3841.36,Nagpur,Maharashtra,Cash,Completed,Marketplace,3.0,cust1074@example.com,True
+ORD100243,CUST1024,Rohan,2025-01-10,Monitor,Electronics,5,12877.25,0.0,64386.27,Nashik,Maharashtra,Credit Card,Completed,Marketplace,5.0,cust1024@example.com,False
+ORD100244,CUST1084,Rohan,2026-03-31,Office Chair,Furniture,4,8857.24,15.0,30114.62,Nagpur,Maharashtra,Credit Card,Completed,Website,2.0,cust1084@example.com,False
+ORD100245,CUST1005,Anjali,2026-04-14,Mouse,Accessories,5,840.28,10.0,3781.25,Hyderabad,Telangana,Net Banking,Cancelled,Website,5.0,cust1005@example.com,True
+ORD100246,CUST1035,Kiran,2026-03-28,Desk,Furniture,5,11572.01,0.0,57860.05,Chennai,Tamil Nadu,Credit Card,Pending,Website,,cust1035@example.com,False
+ORD100247,CUST1097,Rohan,2025-03-31,Keyboard,Accessories,1,1714.61,15.0,1457.42,Delhi,Delhi,UPI,Completed,Mobile App,,cust1097@example.com,False
+ORD100248,CUST1089,Priya,2025-07-31,Monitor,Electronics,2,11134.16,20.0,17814.66,Nagpur,Maharashtra,UPI,Cancelled,Store,5.0,cust1089@example.com,False
+ORD100249,CUST1077,Neha,2026-08-10,Desk,Furniture,3,10543.8,,31631.39,Bangalore,Karnataka,Cash,Returned,Website,2.0,cust1077@example.com,False
+ORD100250,CUST1118,Rahul,2025-09-13,Laptop,Electronics,2,69759.02,,139518.05,Delhi,Delhi,Debit Card,Completed,Marketplace,4.0,cust1118@example.com,True
+ORD100251,CUST1074,Pooja,2025-04-06,Mouse,Accessories,4,823.59,15.0,2800.22,Nagpur,Maharashtra,Cash,Returned,Store,,cust1074@example.com,False
+ORD100252,CUST1059,Rohan,2025-04-06,Office Chair,Furniture,5,9127.14,0.0,45635.72,Chennai,Tamil Nadu,Debit Card,Completed,Marketplace,2.0,cust1059@example.com,False
+ORD100253,CUST1106,Kiran,2025-12-12,Keyboard,Accessories,3,1918.2,10.0,5179.15,Nashik,Maharashtra,Cash,Completed,Marketplace,3.0,cust1106@example.com,False
+ORD100254,CUST1098,Amit,2026-04-16,Laptop,Electronics,1,68690.57,,68690.57,Pune,Maharashtra,UPI,Completed,Marketplace,4.0,cust1098@example.com,True
+ORD100255,CUST1055,Sneha,2025-10-08,Keyboard,Accessories,3,1934.79,5.0,5514.16,Bangalore,Karnataka,Debit Card,Completed,Website,3.0,cust1055@example.com,False
+ORD100256,CUST1116,Priya,2026-12-18,Headphones,Electronics,4,2402.75,,9611.02,Pune,Maharashtra,Net Banking,Returned,Website,,cust1116@example.com,True
+ORD100257,CUST1001,Rohan,2026-06-16,Keyboard,Accessories,1,1833.72,5.0,1742.04,Nashik,Maharashtra,UPI,Completed,Store,1.0,cust1001@example.com,False
+ORD100258,CUST1089,Sneha,2025-04-15,Headphones,Electronics,1,2441.53,5.0,2319.46,Nashik,Maharashtra,Debit Card,Completed,Store,2.0,cust1089@example.com,False
+ORD100259,CUST1100,Rahul,2026-09-17,Headphones,Electronics,1,2531.65,20.0,2025.32,Bangalore,Karnataka,Net Banking,Completed,Mobile App,,cust1100@example.com,False
+ORD100260,CUST1020,Sneha,2025-05-24,Backpack,Accessories,2,2374.5,0.0,4749.0,Nashik,Maharashtra,Cash,Returned,Marketplace,3.0,cust1020@example.com,False
+ORD100261,CUST1041,Anjali,2026-07-21,Headphones,Electronics,3,2292.12,,6876.37,Hyderabad,Telangana,Cash,Returned,Store,,cust1041@example.com,True
+ORD100262,CUST1109,Neha,2026-02-06,Mouse,Accessories,5,901.71,20.0,3606.86,Hyderabad,Telangana,UPI,Completed,Marketplace,4.0,cust1109@example.com,True
+ORD100263,CUST1031,Rahul,2025-11-21,Office Chair,Furniture,5,9327.7,0.0,46638.5,Mumbai,Maharashtra,Net Banking,Cancelled,Marketplace,3.0,cust1031@example.com,False
+ORD100264,CUST1088,Neha,2025-01-15,Headphones,Electronics,1,2543.68,0.0,2543.68,Nashik,Maharashtra,Credit Card,Completed,Website,4.0,cust1088@example.com,False
+ORD100265,CUST1037,Kiran,2026-10-18,Desk,Furniture,4,10785.01,,43140.04,Nagpur,Maharashtra,Cash,Cancelled,Mobile App,3.0,cust1037@example.com,True
+ORD100266,CUST1040,Sneha,2026-08-24,Mobile,Electronics,2,28960.5,20.0,46336.8,Hyderabad,Telangana,Debit Card,Returned,Marketplace,,cust1040@example.com,True
+ORD100267,CUST1008,Amit,2026-09-16,Keyboard,Accessories,4,1783.21,0.0,7132.86,Mumbai,Maharashtra,Debit Card,Returned,Mobile App,1.0,cust1008@example.com,True
+ORD100268,CUST1091,Kiran,2026-06-20,Headphones,Electronics,2,2726.51,15.0,4635.06,Pune,Maharashtra,Debit Card,Completed,Store,2.0,cust1091@example.com,False
+ORD100269,CUST1100,Kiran,2025-10-06,Mouse,Accessories,1,955.28,10.0,859.75,Mumbai,Maharashtra,UPI,Completed,Website,4.0,cust1100@example.com,False
+ORD100270,CUST1066,Neha,2025-06-11,Monitor,Electronics,4,11200.52,20.0,35841.65,Pune,Maharashtra,UPI,Cancelled,Website,2.0,cust1066@example.com,False
+ORD100271,CUST1066,Pooja,2026-01-08,Laptop,Electronics,1,59097.76,5.0,56142.87,Pune,Maharashtra,Credit Card,Completed,Website,5.0,cust1066@example.com,False
+ORD100272,CUST1095,Neha,2025-11-24,Backpack,Accessories,3,2163.15,5.0,6164.99,Hyderabad,Telangana,UPI,Cancelled,Store,1.0,cust1095@example.com,False
+ORD100273,CUST1087,Sneha,2026-02-15,Laptop,Electronics,2,71258.38,20.0,114013.41,Bangalore,Karnataka,Net Banking,Completed,Store,3.0,cust1087@example.com,True
+ORD100274,CUST1071,Anjali,2025-11-08,Office Chair,Furniture,3,8145.71,5.0,23215.28,Pune,Maharashtra,Credit Card,Pending,Store,5.0,cust1071@example.com,False
+ORD100275,CUST1099,Priya,2025-01-25,Keyboard,Accessories,2,1955.66,0.0,3911.33,Hyderabad,Telangana,Cash,Completed,Website,3.0,cust1099@example.com,True
+ORD100276,CUST1098,Pooja,2025-09-01,Backpack,Accessories,1,2213.12,5.0,2102.46,Delhi,Delhi,Net Banking,Completed,Mobile App,,cust1098@example.com,False
+ORD100277,CUST1012,Rohan,2026-01-17,Laptop,Electronics,5,67611.01,15.0,287346.79,Hyderabad,Telangana,UPI,Cancelled,Website,5.0,cust1012@example.com,True
+ORD100278,CUST1082,Rahul,2026-11-10,Backpack,Accessories,5,2007.4,20.0,8029.62,Mumbai,Maharashtra,Credit Card,Completed,Store,3.0,cust1082@example.com,False
+ORD100279,CUST1090,Rahul,2025-07-27,Monitor,Electronics,4,11360.67,10.0,40898.4,Chennai,Tamil Nadu,Cash,Completed,Mobile App,1.0,cust1090@example.com,True
+ORD100280,CUST1058,Rohan,2025-08-01,Office Chair,Furniture,4,8561.07,0.0,34244.29,Chennai,Tamil Nadu,Debit Card,Pending,Store,1.0,cust1058@example.com,True
+ORD100281,CUST1021,Priya,2026-12-30,Mouse,Accessories,2,836.7,10.0,1506.06,Pune,Maharashtra,Debit Card,Pending,Website,,cust1021@example.com,False
+ORD100282,CUST1034,Priya,2026-07-18,Headphones,Electronics,4,2527.98,15.0,8595.12,Pune,Maharashtra,UPI,Pending,Website,2.0,cust1034@example.com,True
+ORD100283,CUST1002,Sneha,2026-01-17,Laptop,Electronics,2,69207.75,5.0,131494.73,Hyderabad,Telangana,Cash,Cancelled,Store,1.0,cust1002@example.com,True
+ORD100284,CUST1009,Sneha,2025-12-06,Keyboard,Accessories,2,1945.83,0.0,3891.66,Nashik,Maharashtra,UPI,Pending,Website,2.0,cust1009@example.com,False
+ORD100285,CUST1056,Akash,2025-06-26,Backpack,Accessories,1,2280.61,15.0,1938.52,Nashik,Maharashtra,Credit Card,Completed,Store,3.0,cust1056@example.com,False
+ORD100286,CUST1114,Neha,2026-10-25,Headphones,Electronics,5,2558.49,20.0,10233.95,Pune,Maharashtra,Net Banking,Pending,Marketplace,1.0,cust1114@example.com,True
+ORD100287,CUST1036,Priya,2026-06-23,Backpack,Accessories,4,2262.77,5.0,8598.52,Bangalore,Karnataka,Cash,Completed,Marketplace,,cust1036@example.com,False
+ORD100288,CUST1062,Neha,2026-02-02,Desk,Furniture,3,11005.27,20.0,26412.64,Nashik,Maharashtra,Credit Card,Completed,Store,5.0,cust1062@example.com,True
+ORD100289,CUST1004,Priya,2026-08-22,Mouse,Accessories,4,874.34,20.0,2797.88,Pune,Maharashtra,Credit Card,Completed,Mobile App,,cust1004@example.com,True
+ORD100290,CUST1035,Akash,2026-02-02,Desk,Furniture,2,11762.31,20.0,18819.7,Pune,Maharashtra,Credit Card,Completed,Mobile App,5.0,cust1035@example.com,False
+ORD100291,CUST1104,Priya,2026-07-31,Monitor,Electronics,3,12152.66,20.0,29166.37,Pune,Maharashtra,Net Banking,Cancelled,Store,2.0,cust1104@example.com,False
+ORD100292,CUST1005,Rohan,2026-06-24,Mobile,Electronics,2,28312.85,20.0,45300.57,Pune,Maharashtra,UPI,Completed,Mobile App,2.0,cust1005@example.com,False
+ORD100293,CUST1092,Rahul,2026-12-23,Headphones,Electronics,1,2323.86,0.0,2323.86,Chennai,Tamil Nadu,UPI,Cancelled,Store,1.0,cust1092@example.com,False
+ORD100294,CUST1091,Pooja,2025-06-11,Backpack,Accessories,3,2121.95,10.0,5729.25,Mumbai,Maharashtra,Net Banking,Returned,Store,2.0,cust1091@example.com,False
+ORD100295,CUST1072,Pooja,2025-06-29,Tablet,Electronics,2,22391.38,,44782.76,Chennai,Tamil Nadu,Debit Card,Returned,Store,2.0,cust1072@example.com,True
+ORD100296,CUST1094,Anjali,2025-11-22,Laptop,Electronics,5,60867.06,0.0,304335.31,Nagpur,Maharashtra,Credit Card,Returned,Website,4.0,cust1094@example.com,True
+ORD100297,CUST1043,Akash,2025-04-01,Mobile,Electronics,3,28007.32,10.0,75619.78,Hyderabad,Telangana,Net Banking,Completed,Store,2.0,cust1043@example.com,True
+ORD100298,CUST1089,Pooja,2025-02-19,Mobile,Electronics,3,31322.48,0.0,93967.44,Chennai,Tamil Nadu,Net Banking,Returned,Marketplace,2.0,cust1089@example.com,False
+ORD100299,CUST1064,Anjali,2026-05-06,Backpack,Accessories,5,2024.63,15.0,8604.67,Chennai,Tamil Nadu,Credit Card,Completed,Marketplace,1.0,cust1064@example.com,True
+ORD100300,CUST1038,Pooja,2025-06-24,Laptop,Electronics,3,59464.61,0.0,178393.82,Chennai,Tamil Nadu,Credit Card,Returned,Website,5.0,cust1038@example.com,True
+ORD100301,CUST1044,Anjali,2025-06-18,Tablet,Electronics,1,23946.75,15.0,20354.73,Nashik,Maharashtra,Net Banking,Completed,Website,1.0,cust1044@example.com,False
+ORD100302,CUST1027,Neha,2026-07-08,Keyboard,Accessories,5,1953.21,,9766.03,Nagpur,Maharashtra,Debit Card,Completed,Mobile App,1.0,cust1027@example.com,True
+ORD100303,CUST1051,Sneha,2026-03-14,Tablet,Electronics,2,21387.65,0.0,42775.29,Nashik,Maharashtra,Debit Card,Returned,Marketplace,2.0,cust1051@example.com,True
+ORD100304,CUST1004,Neha,2025-04-29,Keyboard,Accessories,3,1790.49,0.0,5371.46,Bangalore,Karnataka,Net Banking,Pending,Marketplace,,cust1004@example.com,False
+ORD100305,CUST1012,Rahul,2026-01-14,Desk,Furniture,2,11848.08,10.0,21326.55,Nagpur,Maharashtra,Net Banking,Completed,Store,4.0,cust1012@example.com,False
+ORD100306,CUST1034,Sneha,2026-12-15,Keyboard,Accessories,5,1674.41,0.0,8372.04,Delhi,Delhi,UPI,Returned,Store,5.0,cust1034@example.com,False
+ORD100307,CUST1097,Pooja,2026-06-20,Tablet,Electronics,5,23499.51,0.0,117497.54,Hyderabad,Telangana,Cash,Returned,Marketplace,5.0,cust1097@example.com,True
+ORD100308,CUST1061,Kiran,2026-08-08,Mouse,Accessories,4,816.25,,3265.0,Mumbai,Maharashtra,Cash,Returned,Mobile App,1.0,cust1061@example.com,False
+ORD100309,CUST1023,Pooja,2025-03-22,Headphones,Electronics,2,2271.34,5.0,4315.54,Hyderabad,Telangana,Credit Card,Returned,Mobile App,5.0,cust1023@example.com,False
+ORD100310,CUST1041,Neha,2025-11-30,Mobile,Electronics,4,29384.13,20.0,94029.22,Mumbai,Maharashtra,Cash,Pending,Website,,cust1041@example.com,False
+ORD100311,CUST1076,Anjali,2026-08-04,Desk,Furniture,1,10229.21,15.0,8694.83,Nagpur,Maharashtra,Cash,Completed,Website,5.0,cust1076@example.com,True
+ORD100312,CUST1101, anjali ,2026-05-13,Mouse,Accessories,4,878.95,10.0,3164.21,Chennai,Tamil Nadu,Cash,Pending,Website,2.0,cust1101@example.com,False
+ORD100313,CUST1052,Priya,2025-12-06,Headphones,Electronics,1,2694.79,15.0,2290.57,Nagpur,Maharashtra,UPI,Returned,Marketplace,3.0,cust1052@example.com,False
+ORD100314,CUST1003,Sneha,2026-12-14,Monitor,Electronics,3,12822.83,10.0,34621.65,Delhi,Delhi,Credit Card,Completed,Store,,cust1003@example.com,False
+ORD100315,CUST1100,Rohan,2025-07-12,Monitor,Electronics,4,12349.33,20.0,39517.86, Delhi ,Delhi,Credit Card,Pending,Marketplace,5.0,cust1100@example.com,False
+ORD100316,CUST1106,Rahul,2026-02-18,Laptop,Electronics,1,67724.4,10.0,60951.96,Bangalore,Karnataka,Cash,Cancelled,Website,2.0,cust1106@example.com,True
+ORD100317,CUST1113,Priya,2026-01-05,Keyboard,Accessories,2,1784.32,0.0,3568.64,Pune,Maharashtra,Debit Card,Completed,Marketplace,5.0,cust1113@example.com,False
+ORD100318,CUST1082,Rahul,2026-04-02,Mobile,Electronics,2,29932.72,10.0,53878.9,Pune,Maharashtra,Net Banking,Cancelled,Store,3.0,cust1082@example.com,True
+ORD100319,CUST1108,Anjali,2025-06-16,Mouse,Accessories,3,879.58,0.0,2638.75,Mumbai,Maharashtra,Credit Card,Completed,Mobile App,,cust1108@example.com,True
+ORD100320,CUST1035,Rahul,2026-10-25,Backpack,Accessories,1,2381.07,15.0,2023.91,Pune,Maharashtra,Cash,Completed,Mobile App,3.0,cust1035@example.com,False
+ORD100321,CUST1104,Neha,2026-04-16,Mouse,Accessories,4,963.29,15.0,3275.17,Delhi,Delhi,Credit Card,Pending,Store,,cust1104@example.com,False
+ORD100322,CUST1106,Akash,2026-11-10,Tablet,Electronics,5,19832.33,0.0,99161.65,Nagpur,Maharashtra,Cash,Returned,Store,3.0,cust1106@example.com,False
+ORD100323,CUST1014,Neha,2025-10-11,Office Chair,Furniture,3,8739.01,10.0,23595.33,Mumbai,Maharashtra,Debit Card,Completed,Mobile App,5.0,cust1014@example.com,True
+ORD100324,CUST1116,Rohan,2025-01-27,Laptop,Electronics,3,60319.08,,180957.25,Nagpur,Maharashtra,Debit Card,Completed,Marketplace,4.0,cust1116@example.com,False
+ORD100325,CUST1095,Kiran,2026-12-04,Laptop,Electronics,3,67773.8,,203321.4,Hyderabad,Telangana,Net Banking,Returned,Store,5.0,cust1095@example.com,False
+ORD100326,CUST1109,Kiran,2025-09-22,Headphones,Electronics,3,2485.39,0.0,7456.17,Bangalore,Karnataka,Credit Card,Returned,Store,,cust1109@example.com,True
+ORD100327,CUST1029,Akash,2025-12-06,Monitor,Electronics,3,12691.42,15.0,32363.11,Hyderabad,Telangana,Debit Card,Cancelled,Store,4.0,cust1029@example.com,True
+ORD100328,CUST1061,Pooja,2026-11-29,Laptop,Electronics,4,65006.21,5.0,247023.58,Mumbai,Maharashtra,Cash,Completed,Marketplace,1.0,cust1061@example.com,True
+ORD100329,CUST1018,Rahul,2026-04-14,Keyboard,Accessories,4,1941.42,20.0,6212.56,Chennai,Tamil Nadu,Debit Card,Returned,Mobile App,1.0,cust1018@example.com,False
+ORD100330,CUST1043,Rahul,2025-08-03,Headphones,Electronics,1,2476.03,0.0,2476.03,Chennai,Tamil Nadu,Cash,Completed,Marketplace,1.0,cust1043@example.com,True
+ORD100331,CUST1079,Amit,2026-01-28,Backpack,Accessories,4,2404.74,15.0,8176.13,Nagpur,Maharashtra,UPI,Cancelled,Mobile App,,cust1079@example.com,False
+ORD100332,CUST1002,Priya,2025-09-12,Monitor,Electronics,1,10809.9,,10809.9,Hyderabad,Telangana,Debit Card,Completed,Mobile App,1.0,cust1002@example.com,False
+ORD100333,CUST1065,Neha,2025-11-02,Tablet,Electronics,2,23424.91,0.0,46849.83,Delhi,Delhi,Net Banking,Returned,Store,4.0,cust1065@example.com,False
+ORD100334,CUST1018,Amit,2026-02-18,Monitor,Electronics,3,11195.72,5.0,31907.8,Nashik,Maharashtra,Credit Card,Completed,Mobile App,2.0,cust1018@example.com,False
+ORD100335,CUST1003,Pooja,2025-02-08,Tablet,Electronics,1,22928.88,10.0,20636.0,Bangalore,Karnataka,Debit Card,Cancelled,Website,5.0,cust1003@example.com,True
+ORD100336,CUST1085,Pooja,2026-03-31,Mobile,Electronics,1,27694.74,,27694.74,Pune,Maharashtra,UPI,Cancelled,Store,4.0,cust1085@example.com,False
+ORD100337,CUST1020,Kiran,2026-11-10,Keyboard,Accessories,3,1858.2,15.0,4738.41,Pune,Maharashtra,Debit Card,Cancelled,Mobile App,4.0,cust1020@example.com,True
+ORD100338,CUST1066,Priya,2026-05-25,Tablet,Electronics,3,23252.94,0.0,69758.83,Mumbai,Maharashtra,Cash,Completed,Store,5.0,cust1066@example.com,True
+ORD100339,CUST1046,Rohan,2025-08-01,Backpack,Accessories,2,2221.18,0.0,4442.36,Delhi,Delhi,Debit Card,Completed,Website,1.0,cust1046@example.com,False
+ORD100340,CUST1012,Sneha,2025-03-18,Mobile,Electronics,2,31677.16,0.0,63354.31,Nashik,Maharashtra,Debit Card,Returned,Mobile App,4.0,cust1012@example.com,False
+ORD100341,CUST1034,Akash,2025-10-25,Office Chair,Furniture,1,9136.04,5.0,8679.24,Pune,Maharashtra,Debit Card,Pending,Website,1.0,cust1034@example.com,True
+ORD100342,CUST1002,Neha,2026-09-29,Headphones,Electronics,3,2697.26,10.0,7282.61,Bangalore,Karnataka,UPI,Completed,Store,2.0,cust1002@example.com,True
+ORD100343,CUST1052,Pooja,2026-05-05,Backpack,Accessories,3,2283.56,15.0,5823.07,Nashik,Maharashtra,Credit Card,Completed,Mobile App,,cust1052@example.com,False
+ORD100344,CUST1008,Rohan,2026-08-06,Headphones,Electronics,4,2491.34,20.0,7972.28,Mumbai,Maharashtra,Credit Card,Cancelled,Marketplace,3.0,cust1008@example.com,False
+ORD100345,CUST1004,Amit,2026-03-28,Headphones,Electronics,4,2693.8,0.0,10775.19,Nashik,Maharashtra,UPI,Completed,Store,1.0,cust1004@example.com,False
+ORD100346,CUST1112,Anjali,2026-12-19,Desk,Furniture,3,11050.83,20.0,26521.98,Hyderabad,Telangana,UPI,Pending,Mobile App,4.0,cust1112@example.com,False
+ORD100347,CUST1085,Rahul,2026-10-21,Backpack,Accessories,5,2004.01,20.0,8016.04,Bangalore,Karnataka,Cash,Pending,Marketplace,2.0,cust1085@example.com,True
+ORD100348,CUST1097,Kiran,2025-02-21,Office Chair,Furniture,2,9299.25,10.0,16738.64,Chennai,Tamil Nadu,Credit Card,Cancelled,Marketplace,4.0,cust1097@example.com,True
+ORD100349,CUST1011,Rohan,2026-05-26,Office Chair,Furniture,5,7799.63,15.0,33148.44,Nashik,Maharashtra,Debit Card,Completed,Marketplace,,cust1011@example.com,False
+ORD100350,CUST1003,Sneha,2025-01-01,Mobile,Electronics,4,30342.79,0.0,121371.14,Nagpur,Maharashtra,Cash,Cancelled,Store,5.0,cust1003@example.com,False
+ORD100351,CUST1027, akash ,2026-04-11,Office Chair,Furniture,3,9038.2,0.0,27114.6,Chennai,Tamil Nadu,Cash,Cancelled,Marketplace,,cust1027@example.com,False
+ORD100352,CUST1047,Akash,2025-12-16,Office Chair,Furniture,1,8026.97,,8026.97,Mumbai,Maharashtra,Debit Card,Cancelled,Store,,cust1047@example.com,True
+ORD100353,CUST1006,Sneha,2026-02-24,Headphones,Electronics,2,2621.26,,5242.51,Nashik,Maharashtra,Debit Card,Cancelled,Mobile App,2.0,cust1006@example.com,True
+ORD100354,CUST1120,Pooja,2025-04-21,Backpack,Accessories,4,2295.39,5.0,8722.47,Hyderabad,Telangana,UPI,Returned,Website,4.0,cust1120@example.com,False
+ORD100355,CUST1085,Kiran,2025-02-19,Tablet,Electronics,4,22133.6,0.0,88534.41,Bangalore,Karnataka,Net Banking,Cancelled,Marketplace,5.0,cust1085@example.com,True
+ORD100356,CUST1089,Anjali,2026-09-07,Tablet,Electronics,2,21504.58,0.0,43009.17,Bangalore,Karnataka,Debit Card,Cancelled,Marketplace,4.0,cust1089@example.com,False
+ORD100357,CUST1118,Rahul,2026-04-09,Keyboard,Accessories,4,1969.38,10.0,7089.76,Delhi,Delhi,Credit Card,Pending,Store,,cust1118@example.com,False
+ORD100358,CUST1111,Akash,2025-10-25,Monitor,Electronics,2,12298.0,5.0,23366.2,Hyderabad,Telangana,Credit Card,Returned,Mobile App,5.0,cust1111@example.com,False
+ORD100359,CUST1089,Pooja,2026-08-08,Monitor,Electronics,3,11952.89,20.0,28686.93,Mumbai,Maharashtra,Cash,Completed,Marketplace,1.0,cust1089@example.com,False
+ORD100360,CUST1014,Neha,2025-07-24,Laptop,Electronics,2,67213.3,0.0,134426.61,Nagpur,Maharashtra,Credit Card,Completed,Store,2.0,cust1014@example.com,True
+ORD100361,CUST1089,Sneha,2026-04-09,Mouse,Accessories,5,874.56,0.0,4372.81,Hyderabad,Telangana,Cash,Returned,Mobile App,,cust1089@example.com,False
+ORD100362,CUST1072,Amit,2026-11-12,Backpack,Accessories,5,2106.56,,10532.81,Hyderabad,Telangana,Net Banking,Pending,Marketplace,,cust1072@example.com,False
+ORD100363,CUST1071,Priya,2026-03-30,Laptop,Electronics,3,66567.3,5.0,189716.81,Pune,Maharashtra,Debit Card,Cancelled,Mobile App,,cust1071@example.com,True
+ORD100364,CUST1038,Sneha,2026-06-11,Office Chair,Furniture,1,9286.21,5.0,8821.9,Bangalore,Karnataka,Net Banking,Completed,Marketplace,3.0,cust1038@example.com,False
+ORD100365,CUST1034,Rahul,2026-04-23,Headphones,Electronics,5,2252.82,10.0,10137.7,Bangalore,Karnataka,UPI,Completed,Store,5.0,cust1034@example.com,True
+ORD100366,CUST1100,Akash,2025-03-16,Tablet,Electronics,4,22220.7,20.0,71106.26,Delhi,Delhi,Cash,Completed,Mobile App,5.0,cust1100@example.com,True
+ORD100367,CUST1101,Akash,2025-04-05,Desk,Furniture,4,11081.48,20.0,35460.73,Bangalore,Karnataka,Credit Card,Completed,Store,3.0,cust1101@example.com,False
+ORD100368,CUST1038,Akash,2026-11-16,Keyboard,Accessories,5,1623.17,,8115.85,Nashik,Maharashtra,Net Banking,Completed,Mobile App,1.0,cust1038@example.com,False
+ORD100369,CUST1114,Amit,2025-10-17,Monitor,Electronics,1,11415.82,15.0,9703.44,Nagpur,Maharashtra,Cash,Completed,Marketplace,4.0,cust1114@example.com,True
+ORD100370,CUST1038,Kiran,2025-06-21,Keyboard,Accessories,5,1961.36,0.0,9806.78,Chennai,Tamil Nadu,Cash,Completed,Website,2.0,cust1038@example.com,False
+ORD100371,CUST1081,Pooja,2026-12-21,Keyboard,Accessories,1,1813.59,5.0,1722.91,Nagpur,Maharashtra,UPI,Returned,Mobile App,1.0,cust1081@example.com,False
+ORD100372,CUST1092, kiran ,2025-09-15,Monitor,Electronics,1,10930.24,0.0,10930.24,Pune,Maharashtra,UPI,Cancelled,Mobile App,3.0,cust1092@example.com,False
+ORD100373,CUST1050,Sneha,2026-11-21,Office Chair,Furniture,4,7678.71,10.0,27643.37,Nagpur,Maharashtra,Cash,Completed,Website,,cust1050@example.com,False
+ORD100374,CUST1006,Neha,2026-12-04,Mobile,Electronics,5,28739.02,0.0,143695.1,Chennai,Tamil Nadu,Cash,Completed,Store,4.0,cust1006@example.com,False
+ORD100375,CUST1051,Kiran,2026-02-05,Laptop,Electronics,2,61358.25,20.0,98173.21,Nashik,Maharashtra,Debit Card,Returned,Mobile App,3.0,cust1051@example.com,False
+ORD100376,CUST1114,Amit,2025-02-12,Monitor,Electronics,5,11139.3,20.0,44557.19,Pune,Maharashtra,Cash,Cancelled,Marketplace,5.0,cust1114@example.com,False
+ORD100377,CUST1011,Kiran,2026-10-24,Mouse,Accessories,3,884.28,5.0,2520.19,Hyderabad,Telangana,Credit Card,Completed,Mobile App,2.0,cust1011@example.com,False
+ORD100378,CUST1107,Amit,2026-08-04,Mouse,Accessories,1,930.78,5.0,884.24,Hyderabad,Telangana,Cash,Pending,Website,3.0,cust1107@example.com,False
+ORD100379,CUST1009,Akash,2025-12-05,Mouse,Accessories,2,914.51,,1829.01,Mumbai,Maharashtra,Credit Card,Returned,Mobile App,1.0,cust1009@example.com,False
+ORD100380,CUST1080,Neha,2026-09-24,Mobile,Electronics,3,29703.88,15.0,75744.88,Hyderabad,Telangana,Cash,Completed,Store,3.0,cust1080@example.com,False
+ORD100381,CUST1022,Pooja,2026-10-19,Laptop,Electronics,2,67758.59,5.0,128741.32,Chennai,Tamil Nadu,Debit Card,Completed,Mobile App,,cust1022@example.com,False
+ORD100382,CUST1043,Kiran,2026-05-14,Office Chair,Furniture,4,8967.1,10.0,32281.57,Nashik,Maharashtra,UPI,Completed,Website,3.0,cust1043@example.com,True
+ORD100383,CUST1115,Sneha,2025-03-20,Desk,Furniture,3,11849.94,,35549.82,Hyderabad,Telangana,UPI,Cancelled,Website,5.0,cust1115@example.com,False
+ORD100384,CUST1052,Rohan,2026-07-07,Tablet,Electronics,1,20946.71,20.0,16757.37,Hyderabad,Telangana,Credit Card,Completed,Marketplace,2.0,cust1052@example.com,False
+ORD100385,CUST1094,Akash,2026-02-11,Mouse,Accessories,4,901.87,20.0,2886.0,Bangalore,Karnataka,Cash,Completed,Mobile App,5.0,cust1094@example.com,False
+ORD100386,CUST1022,Rahul,2026-08-03,Desk,Furniture,4,10294.12,5.0,39117.65,Bangalore,Karnataka,Net Banking,Completed,Website,2.0,cust1022@example.com,False
+ORD100387,CUST1030,Kiran,2025-07-31,Mobile,Electronics,3,27256.85,5.0,77682.02,Delhi,Delhi,Debit Card,Pending,Marketplace,4.0,cust1030@example.com,True
+ORD100388,CUST1006,Anjali,2025-09-27,Monitor,Electronics,5,12791.15,,63955.77,Mumbai,Maharashtra,Cash,Cancelled,Mobile App,4.0,cust1006@example.com,False
+ORD100389,CUST1049,Kiran,2025-08-17,Monitor,Electronics,5,11703.19,10.0,52664.35,Mumbai,Maharashtra,Net Banking,Completed,Store,4.0,cust1049@example.com,False
+ORD100390,CUST1114,Sneha,2025-08-24,Tablet,Electronics,5,21735.55,5.0,103243.88,Pune,Maharashtra,Cash,Returned,Store,2.0,cust1114@example.com,True
+ORD100391,CUST1024,Priya,2026-11-08,Headphones,Electronics,5,2658.48,,13292.39,Chennai,Tamil Nadu,Net Banking,Completed,Website,4.0,cust1024@example.com,False
+ORD100392,CUST1062,Amit,2026-02-25,Office Chair,Furniture,5,8750.34,5.0,41564.12,Hyderabad,Telangana,Credit Card,Completed,Mobile App,5.0,cust1062@example.com,False
+ORD100393,CUST1021,Rahul,2025-09-22,Headphones,Electronics,5,2277.96,5.0,10820.29,Pune,Maharashtra,Cash,Pending,Website,,cust1021@example.com,False
+ORD100394,CUST1085,Rohan,2026-04-28,Mouse,Accessories,2,919.17,15.0,1562.6,Mumbai,Maharashtra,Credit Card,Completed,Marketplace,5.0,cust1085@example.com,True
+ORD100395,CUST1102,Akash,2025-06-21,Tablet,Electronics,5,22047.54,,110237.71,Bangalore,Karnataka,Net Banking,Cancelled,Website,2.0,cust1102@example.com,False
+ORD100396,CUST1050,Pooja,2026-06-01,Headphones,Electronics,1,2511.36,5.0,2385.79,Mumbai,Maharashtra,Credit Card,Cancelled,Website,2.0,cust1050@example.com,False
+ORD100397,CUST1116,Rohan,2025-04-06,Tablet,Electronics,5,23110.49,20.0,92441.94,Pune,Maharashtra,Credit Card,Cancelled,Website,,cust1116@example.com,False
+ORD100398,CUST1056,Priya,2026-03-16,Desk,Furniture,3,11434.81,0.0,34304.44,Nagpur,Maharashtra,Net Banking,Pending,Store,5.0,cust1056@example.com,False
+ORD100399,CUST1117,Sneha,2025-08-27,Tablet,Electronics,4,20919.88,5.0,79495.54,Mumbai,Maharashtra,Debit Card,Cancelled,Marketplace,3.0,cust1117@example.com,True
+ORD100400,CUST1001,Akash,2025-07-30,Laptop,Electronics,5,63375.39,0.0,316876.94,Mumbai,Maharashtra,Net Banking,Completed,Website,2.0,cust1001@example.com,False
+ORD100401,CUST1084,Anjali,2026-01-10,Tablet,Electronics,3,21663.67,20.0,51992.81,Delhi,Delhi,Debit Card,Returned,Marketplace,2.0,cust1084@example.com,False
+ORD100402,CUST1071,Neha,2026-05-11,Desk,Furniture,2,11130.01,10.0,20034.01,Nashik,Maharashtra,Debit Card,Cancelled,Store,,cust1071@example.com,False
+ORD100403,CUST1095,Sneha,2025-06-15,Headphones,Electronics,2,2641.55,15.0,4490.64,Mumbai,Maharashtra,Credit Card,Cancelled,Marketplace,3.0,cust1095@example.com,False
+ORD100404,CUST1079,Rahul,2025-04-04,Laptop,Electronics,4,58568.78,,234275.11,Bangalore,Karnataka,Net Banking,Cancelled,Marketplace,1.0,cust1079@example.com,True
+ORD100405,CUST1034,Pooja,2026-01-29,Keyboard,Accessories,1,1633.59,20.0,1306.87,Chennai,Tamil Nadu,Cash,Returned,Store,,cust1034@example.com,False
+ORD100406,CUST1008,Kiran,2026-11-04,Headphones,Electronics,4,2350.85,0.0,9403.41,Nashik,Maharashtra,Debit Card,Completed,Website,5.0,cust1008@example.com,False
+ORD100407,CUST1067,Rahul,2025-01-01,Keyboard,Accessories,1,1706.13,10.0,1535.52,Bangalore,Karnataka,UPI,Completed,Marketplace,3.0,cust1067@example.com,False
+ORD100408,CUST1051,Sneha,2025-03-12,Backpack,Accessories,5,2304.25,0.0,11521.24,Hyderabad,Telangana,Cash,Completed,Store,3.0,cust1051@example.com,False
+ORD100409,CUST1029,Rahul,2025-09-25,Tablet,Electronics,4,22329.59,15.0,75920.6,Hyderabad,Telangana,Net Banking,Cancelled,Website,5.0,cust1029@example.com,True
+ORD100410,CUST1065,Anjali,2026-07-05,Mouse,Accessories,1,982.21,20.0,785.77,Chennai,Tamil Nadu,Debit Card,Returned,Marketplace,4.0,cust1065@example.com,False
+ORD100411,CUST1062,Amit,2026-08-24,Keyboard,Accessories,4,1785.86,,7143.44,Chennai,Tamil Nadu,Net Banking,Completed,Store,1.0,cust1062@example.com,False
+ORD100412,CUST1082,Kiran,2026-06-13,Keyboard,Accessories,3,1963.96,15.0,5008.1,Hyderabad,Telangana,UPI,Returned,Store,2.0,cust1082@example.com,False
+ORD100413,CUST1012,Akash,2026-05-03,Backpack,Accessories,1,2389.81,20.0,1911.85,Chennai,Tamil Nadu,Debit Card,Completed,Store,2.0,cust1012@example.com,False
+ORD100414,CUST1088,Priya,2025-09-29,Keyboard,Accessories,2,1884.75,5.0,3581.03,Nashik,Maharashtra,Credit Card,Completed,Mobile App,5.0,cust1088@example.com,False
+ORD100415,CUST1020,Anjali,2026-05-20,Mobile,Electronics,1,32734.68,,32734.68,Mumbai,Maharashtra,UPI,Cancelled,Website,4.0,cust1020@example.com,False
+ORD100416,CUST1080,Neha,2026-06-08,Monitor,Electronics,5,11977.93,10.0,53900.7,Nashik,Maharashtra,Net Banking,Completed,Mobile App,1.0,cust1080@example.com,False
+ORD100417,CUST1103,Rahul,2026-02-08,Backpack,Accessories,5,2201.09,0.0,11005.45,Nashik,Maharashtra,Net Banking,Completed,Marketplace,3.0,cust1103@example.com,False
+ORD100418,CUST1002,Anjali,2026-01-06,Laptop,Electronics,4,59809.72,20.0,191391.11,Hyderabad,Telangana,Debit Card,Completed,Store,2.0,cust1002@example.com,False
+ORD100419,CUST1061,Pooja,2025-08-04,Tablet,Electronics,3,21994.59,5.0,62684.58,Chennai,Tamil Nadu,Debit Card,Completed,Marketplace,3.0,cust1061@example.com,False
+ORD100420,CUST1024,Neha,2025-04-13,Tablet,Electronics,5,20805.69,,104028.47,Bangalore,Karnataka,Credit Card,Cancelled,Marketplace,4.0,cust1024@example.com,True
+ORD100421,CUST1019,Kiran,2025-05-18,Headphones,Electronics,1,2460.76,5.0,2337.72,Nashik,Maharashtra,Cash,Returned,Store,4.0,cust1019@example.com,False
+ORD100422,CUST1033,Priya,2025-03-03,Desk,Furniture,4,11419.19,0.0,45676.78,Pune,Maharashtra,Debit Card,Pending,Website,4.0,cust1033@example.com,False
+ORD100423,CUST1043,Akash,2025-09-21,Mouse,Accessories,3,910.35,20.0,2184.84,Chennai,Tamil Nadu,UPI,Pending,Website,3.0,cust1043@example.com,False
+ORD100424,CUST1078,Rohan,2026-06-07,Keyboard,Accessories,3,1737.03,10.0,4689.99,Bangalore,Karnataka,Net Banking,Completed,Marketplace,5.0,cust1078@example.com,False
+ORD100425,CUST1060,Pooja,2026-08-09,Headphones,Electronics,3,2565.64,15.0,6542.37,Bangalore,Karnataka,UPI,Completed,Mobile App,3.0,cust1060@example.com,True
+ORD100426,CUST1041,Rohan,2025-10-05,Monitor,Electronics,3,12347.15,20.0,29633.15,Delhi,Delhi,Debit Card,Returned,Marketplace,4.0,cust1041@example.com,True
+ORD100427,CUST1024,Sneha,2026-12-19,Laptop,Electronics,2,61771.41,,123542.82,Bangalore,Karnataka,Credit Card,Completed,Marketplace,1.0,cust1024@example.com,True
+ORD100428,CUST1009,Sneha,2025-03-27,Office Chair,Furniture,1,8540.77,15.0,7259.66,Pune,Maharashtra,Debit Card,Cancelled,Mobile App,1.0,cust1009@example.com,False
+ORD100429,CUST1120,Rahul,2026-03-30,Backpack,Accessories,2,2304.54,5.0,4378.63,Delhi,Delhi,Credit Card,Cancelled,Mobile App,1.0,cust1120@example.com,True
+ORD100430,CUST1085,Neha,2026-07-08,Monitor,Electronics,4,13139.96,15.0,44675.85,Chennai,Tamil Nadu,Cash,Pending,Mobile App,,cust1085@example.com,False
+ORD100431,CUST1023,Kiran,2026-10-17,Tablet,Electronics,5,22103.22,15.0,93938.7,Nashik,Maharashtra,Debit Card,Completed,Marketplace,5.0,cust1023@example.com,True
+ORD100432,CUST1104,Neha,2025-06-09,Mobile,Electronics,3,29473.22,10.0,79577.7,Nashik,Maharashtra,UPI,Completed,Mobile App,3.0,cust1104@example.com,False
+ORD100433,CUST1061,Neha,2026-03-17,Desk,Furniture,4,10559.14,15.0,35901.09,Pune,Maharashtra,Cash,Completed,Website,5.0,cust1061@example.com,False
+ORD100434,CUST1025,Pooja,2026-10-24,Backpack,Accessories,4,2051.84,5.0,7796.99,Nagpur,Maharashtra,Net Banking,Completed,Store,1.0,cust1025@example.com,False
+ORD100435,CUST1081,Pooja,2025-10-03,Keyboard,Accessories,3,1887.45,,5662.36,Delhi,Delhi,Credit Card,Completed,Mobile App,2.0,cust1081@example.com,False
+ORD100436,CUST1015,Akash,2025-07-12,Office Chair,Furniture,3,8708.68,,26126.04, Nashik ,Maharashtra,UPI,Completed,Website,5.0,cust1015@example.com,True
+ORD100437,CUST1024,Priya,2025-01-09,Mobile,Electronics,3,31291.18,5.0,89179.85,Delhi,Delhi,UPI,Completed,Website,4.0,cust1024@example.com,True
+ORD100438,CUST1044,Akash,2025-02-02,Backpack,Accessories,4,2184.02,10.0,7862.48,Delhi,Delhi,UPI,Completed,Website,3.0,cust1044@example.com,False
+ORD100439,CUST1010,Pooja,2025-09-14,Desk,Furniture,2,11870.54,5.0,22554.02,Nashik,Maharashtra,UPI,Completed,Mobile App,4.0,cust1010@example.com,False
+ORD100440,CUST1032,Priya,2026-06-18,Laptop,Electronics,4,68522.95,,274091.79,Hyderabad,Telangana,Net Banking,Pending,Store,3.0,cust1032@example.com,True
+ORD100441,CUST1081,Akash,2025-07-23,Laptop,Electronics,3,66800.76,15.0,170341.94,Mumbai,Maharashtra,UPI,Returned,Mobile App,1.0,cust1081@example.com,True
+ORD100442,CUST1082,Sneha,2026-08-22,Backpack,Accessories,1,2329.53,5.0,2213.06,Chennai,Tamil Nadu,Net Banking,Completed,Website,1.0,CUST1082@EXAMPLE.COM,False
+ORD100443,CUST1101,Sneha,2026-05-27,Office Chair,Furniture,3,8072.83,0.0,24218.48,Bangalore,Karnataka,Cash,Completed,Website,1.0,cust1101@example.com,False
+ORD100444,CUST1083,Akash,2026-07-26,Headphones,Electronics,2,2366.34,15.0,4022.77,Mumbai,Maharashtra,Net Banking,Returned,Mobile App,1.0,cust1083@example.com,False
+ORD100445,CUST1049,Kiran,2026-03-25,Monitor,Electronics,3,11964.73,0.0,35894.18,Bangalore,Karnataka,Debit Card,Cancelled,Marketplace,2.0,cust1049@example.com,False
+ORD100446,CUST1024,Kiran,2026-09-06,Desk,Furniture,3,10930.47,,32791.41,Chennai,Tamil Nadu,Credit Card,Completed,Mobile App,4.0,cust1024@example.com,False
+ORD100447,CUST1105,Pooja,2026-06-03,Mouse,Accessories,4,949.67,0.0,3798.66,Chennai,Tamil Nadu,Credit Card,Completed,Store,5.0,cust1105@example.com,True
+ORD100448,CUST1042,Rahul,2026-07-19,Mobile,Electronics,2,31099.35,20.0,49758.95,Nagpur,Maharashtra,Cash,Completed,Store,4.0,cust1042@example.com,False
+ORD100449,CUST1042,Rahul,2025-05-13,Mobile,Electronics,5,27400.08,,137000.4,Mumbai,Maharashtra,UPI,Completed,Website,4.0,cust1042@example.com,True
+ORD100450,CUST1013,Neha,2026-08-28,Laptop,Electronics,4,66611.62,20.0,213157.17,Nagpur,Maharashtra,UPI,Completed,Mobile App,5.0,cust1013@example.com,False
+ORD100451,CUST1010,Amit,2026-10-17,Laptop,Electronics,4,64584.77,0.0,258339.08,Hyderabad,Telangana,Debit Card,Cancelled,Marketplace,3.0,cust1010@example.com,False
+ORD100452,CUST1008,Sneha,2025-11-08,Tablet,Electronics,5,23030.92,0.0,115154.61,Delhi,Delhi,Credit Card,Cancelled,Website,1.0,cust1008@example.com,False
+ORD100453,CUST1030, anjali ,2025-09-12,Desk,Furniture,2,11057.62,5.0,21009.48,Nagpur,Maharashtra,Credit Card,Cancelled,Marketplace,,cust1030@example.com,True
+ORD100454,CUST1099,Rahul,2025-04-17,Tablet,Electronics,4,22727.07,,90908.27,Chennai,Tamil Nadu,Credit Card,Cancelled,Marketplace,5.0,cust1099@example.com,False
+ORD100455,CUST1085,Akash,2025-11-29,Headphones,Electronics,3,2525.04,10.0,6817.61,Nashik,Maharashtra,Net Banking,Returned,Marketplace,,cust1085@example.com,False
+ORD100456,CUST1078,Akash,2025-09-18,Keyboard,Accessories,4,1953.41,20.0,6250.92,Hyderabad,Telangana,Net Banking,Pending,Marketplace,1.0,cust1078@example.com,False
+ORD100457,CUST1005,Amit,2025-11-06,Mouse,Accessories,5,988.81,5.0,4696.87,Pune,Maharashtra,Debit Card,Completed,Mobile App,3.0,cust1005@example.com,True
+ORD100458,CUST1099,Rahul,2025-06-09,Mouse,Accessories,1,892.87,0.0,892.87,Bangalore,Karnataka,Debit Card,Completed,Mobile App,2.0,cust1099@example.com,False
+ORD100459,CUST1104,Sneha,2025-08-11,Mouse,Accessories,5,912.43,15.0,3877.83,Mumbai,Maharashtra,Debit Card,Pending,Mobile App,4.0,cust1104@example.com,False
+ORD100460,CUST1090,Pooja,2026-08-14,Tablet,Electronics,5,21121.73,,105608.65,Mumbai,Maharashtra,UPI,Completed,Store,3.0,cust1090@example.com,False
+ORD100461,CUST1054,Pooja,2026-10-10,Mobile,Electronics,5,30803.32,0.0,154016.61,Hyderabad,Telangana,UPI,Completed,Website,3.0,cust1054@example.com,False
+ORD100462,CUST1073,Pooja,2025-02-21,Headphones,Electronics,5,2360.4,,11801.99,Chennai,Tamil Nadu,Net Banking,Cancelled,Website,2.0,cust1073@example.com,False
+ORD100463,CUST1038,Amit,2026-08-09,Backpack,Accessories,2,2016.32,10.0,3629.38,Bangalore,Karnataka,Cash,Pending,Store,1.0,cust1038@example.com,False
+ORD100464,CUST1065,Pooja,2026-05-15,Backpack,Accessories,2,2226.09,15.0,3784.35,Bangalore,Karnataka,Cash,Completed,Mobile App,2.0,cust1065@example.com,True
+ORD100465,CUST1035,Pooja,2026-02-28,Backpack,Accessories,5,2029.51,0.0,10147.57,Chennai,Tamil Nadu,Debit Card,Completed,Mobile App,3.0,cust1035@example.com,False
+ORD100466,CUST1077,Anjali,2026-03-29,Laptop,Electronics,2,66510.87,10.0,119719.57,Delhi,Delhi,Credit Card,Pending,Website,2.0,cust1077@example.com,True
+ORD100467,CUST1088,Anjali,2025-09-06,Monitor,Electronics,1,12575.0,0.0,12575.0,Bangalore,Karnataka,Credit Card,Completed,Website,3.0,cust1088@example.com,False
+ORD100468,CUST1103,Kiran,2025-08-03,Mobile,Electronics,4,27136.49,15.0,92264.06,Delhi,Delhi,Credit Card,Completed,Store,5.0,cust1103@example.com,False
+ORD100469,CUST1080,Amit,2026-06-24,Headphones,Electronics,4,2703.02,20.0,8649.66,Pune,Maharashtra,Debit Card,Completed,Website,3.0,cust1080@example.com,True
+ORD100470,CUST1102,Sneha,2025-01-09,Tablet,Electronics,1,22680.93,15.0,19278.79,Delhi,Delhi,Net Banking,Returned,Store,,cust1102@example.com,False
+ORD100471,CUST1047,Kiran,2026-01-25,Mobile,Electronics,3,29319.14,,87957.42,Pune,Maharashtra,UPI,Completed,Marketplace,5.0,cust1047@example.com,False
+ORD100472,CUST1012,Amit,2026-12-31,Headphones,Electronics,5,2530.34,15.0,10753.96,Hyderabad,Telangana,UPI,Completed,Store,3.0,cust1012@example.com,False
+ORD100473,CUST1051,Neha,2026-10-03,Headphones,Electronics,3,2425.96,,7277.87,Pune,Maharashtra,Credit Card,Cancelled,Store,1.0,cust1051@example.com,False
+ORD100474,CUST1033,Pooja,2025-12-16,Backpack,Accessories,5,2079.26,10.0,9356.65,Pune,Maharashtra,Credit Card,Completed,Marketplace,5.0,cust1033@example.com,False
+ORD100475,CUST1079,Anjali,2025-11-16,Keyboard,Accessories,2,1674.99,20.0,2679.98,Nagpur,Maharashtra,Debit Card,Pending,Mobile App,2.0,cust1079@example.com,False
+ORD100476,CUST1018,Rahul,2026-06-21,Tablet,Electronics,2,22829.54,10.0,41093.17,Hyderabad,Telangana,Net Banking,Completed,Mobile App,3.0,cust1018@example.com,True
+ORD100477,CUST1072,Amit,2025-05-30,Desk,Furniture,2,11746.95,10.0,21144.51,Mumbai,Maharashtra,Debit Card,Pending,Marketplace,3.0,cust1072@example.com,False
+ORD100478,CUST1096,Anjali,2025-01-27,Mouse,Accessories,2,833.68,0.0,1667.36,Bangalore,Karnataka,Cash,Completed,Mobile App,5.0,cust1096@example.com,True
+ORD100479,CUST1030,Kiran,2025-05-18,Laptop,Electronics,1,68637.74,,68637.74,Chennai,Tamil Nadu,Cash,Pending,Store,2.0,cust1030@example.com,False
+ORD100480,CUST1063,Amit,2026-02-23,Office Chair,Furniture,2,8034.66,5.0,15265.86,Bangalore,Karnataka,Debit Card,Pending,Mobile App,,cust1063@example.com,False
+ORD100481,CUST1026,Akash,2026-05-17,Keyboard,Accessories,2,1932.17,15.0,3284.68,Mumbai,Maharashtra,Net Banking,Completed,Marketplace,4.0,cust1026@example.com,True
+ORD100482,CUST1078,Anjali,2026-08-09,Backpack,Accessories,4,2393.22,20.0,7658.31,Chennai,Tamil Nadu,Cash,Cancelled,Website,5.0,cust1078@example.com,True
+ORD100483,CUST1058,Kiran,2025-02-10,Office Chair,Furniture,2,8564.38,20.0,13703.0,Pune,Maharashtra,Net Banking,Cancelled,Website,2.0,cust1058@example.com,False
+ORD100484,CUST1057,Anjali,2025-10-29,Backpack,Accessories,3,2053.25,15.0,5235.8,Delhi,Delhi,UPI,Returned,Mobile App,4.0,cust1057@example.com,False
+ORD100485,CUST1058,Kiran,2026-12-14,Mobile,Electronics,2,32627.05,20.0,52203.29,Mumbai,Maharashtra,Credit Card,Pending,Marketplace,3.0,cust1058@example.com,False
+ORD100486,CUST1004,Sneha,2026-04-11,Headphones,Electronics,5,2697.9,,13489.49,Nashik,Maharashtra,Debit Card,Completed,Mobile App,,cust1004@example.com,False
+ORD100487,CUST1016,Pooja,2026-06-21,Mobile,Electronics,4,29177.66,,116710.64,Mumbai,Maharashtra,Cash,Cancelled,Mobile App,4.0,cust1016@example.com,False
+ORD100488,CUST1049,Rahul,2025-06-03,Laptop,Electronics,3,69826.97,20.0,167584.73,Bangalore,Karnataka,Credit Card,Completed,Website,4.0,cust1049@example.com,False
+ORD100489,CUST1040,Amit,2025-07-27,Office Chair,Furniture,2,9177.52,0.0,18355.04,Delhi,Delhi,Cash,Completed,Website,4.0,cust1040@example.com,False
+ORD100490,CUST1110,Rohan,2026-08-26,Office Chair,Furniture,5,8054.39,15.0,34231.17,Pune,Maharashtra,Net Banking,Pending,Marketplace,1.0,cust1110@example.com,False
+ORD100491,CUST1077,Priya,2026-07-25,Laptop,Electronics,5,66556.96,10.0,299506.31,Hyderabad,Telangana,UPI,Completed,Mobile App,1.0,cust1077@example.com,False
+ORD100492,CUST1045,Neha,2026-09-10,Laptop,Electronics,1,66015.21,,66015.21,Bangalore,Karnataka,Debit Card,Completed,Website,1.0,cust1045@example.com,False
+ORD100493,CUST1023,Anjali,2026-09-02,Headphones,Electronics,5,2595.76,,12978.78,Delhi,Delhi,Cash,Completed,Marketplace,,cust1023@example.com,False
+ORD100494,CUST1047,Sneha,2026-01-24,Laptop,Electronics,3,63291.4,10.0,170886.79,Mumbai,Maharashtra,Net Banking,Cancelled,Website,3.0,cust1047@example.com,False
+ORD100495,CUST1018,Priya,2025-08-03,Mobile,Electronics,3,29482.55,20.0,70758.11,Delhi,Delhi,Cash,Completed,Website,5.0,cust1018@example.com,False
+ORD100496,CUST1081,Neha,2026-12-25,Desk,Furniture,4,11415.04,,45660.16,Mumbai,Maharashtra,Net Banking,Cancelled,Store,3.0,CUST1081@EXAMPLE.COM,False
+ORD100497,CUST1074,Rohan,2026-06-17,Tablet,Electronics,2,22275.59,20.0,35640.95,Chennai,Tamil Nadu,Net Banking,Completed,Mobile App,,cust1074@example.com,False
+ORD100498,CUST1025,Priya,2025-05-01,Laptop,Electronics,1,66630.99,15.0,56636.34,Mumbai,Maharashtra,Cash,Pending,Marketplace,1.0,cust1025@example.com,False
+ORD100499,CUST1045,Neha,2025-10-16,Desk,Furniture,1,10342.61,,10342.61,Hyderabad,Telangana,UPI,Completed,Store,5.0,cust1045@example.com,False
+ORD100500,CUST1042,Anjali,2026-08-06,Laptop,Electronics,3,63648.64,10.0,171851.33,Mumbai,Maharashtra,UPI,Completed,Mobile App,3.0,cust1042@example.com,False
+ORD100501,CUST1119,Rohan,2025-06-09,Office Chair,Furniture,1,7880.78,,7880.78,Nashik,Maharashtra,Cash,Completed,Marketplace,4.0,cust1119@example.com,False
+ORD100502,CUST1008,Kiran,2026-07-23,Desk,Furniture,5,11392.03,,56960.17,Delhi,Delhi,UPI,Completed,Store,3.0,cust1008@example.com,True
+ORD100503,CUST1020,Anjali,2025-06-19,Mouse,Accessories,3,922.77,15.0,2353.07,Pune,Maharashtra,Cash,Pending,Mobile App,5.0,cust1020@example.com,True
+ORD100504,CUST1111,Priya,2026-05-24,Mouse,Accessories,1,884.5,10.0,796.05,Chennai,Tamil Nadu,Debit Card,Pending,Store,2.0,cust1111@example.com,False
+ORD100505,CUST1039,Rohan,2025-04-05,Headphones,Electronics,3,2638.9,0.0,7916.69,Mumbai,Maharashtra,Cash,Completed,Marketplace,5.0,cust1039@example.com,True
+ORD100506,CUST1025,Sneha,2025-05-27,Monitor,Electronics,5,12661.28,10.0,56975.76,Nashik,Maharashtra,Cash,Returned,Mobile App,2.0,cust1025@example.com,False
+ORD100507,CUST1005,Anjali,2025-02-15,Office Chair,Furniture,5,7656.99,0.0,38284.93,Nagpur,Maharashtra,UPI,Completed,Marketplace,1.0,cust1005@example.com,True
+ORD100508,CUST1067,Akash,2025-08-03,Mouse,Accessories,5,924.99,10.0,4162.47,Pune,Maharashtra,Credit Card,Completed,Store,3.0,cust1067@example.com,False
+ORD100509,CUST1041,Amit,2025-04-28,Office Chair,Furniture,3,7917.74,5.0,22565.57,Mumbai,Maharashtra,Cash,Cancelled,Website,2.0,cust1041@example.com,False
+ORD100510,CUST1045,Anjali,2025-10-18,Desk,Furniture,3,11975.21,5.0,34129.35,Chennai,Tamil Nadu,Credit Card,Completed,Website,3.0,cust1045@example.com,False
+ORD100511,CUST1115,Amit,2026-11-23,Monitor,Electronics,1,10869.58,5.0,10326.1,Nashik,Maharashtra,UPI,Pending,Website,1.0,cust1115@example.com,False
+ORD100512,CUST1051,Kiran,2025-07-22,Headphones,Electronics,5,2406.22,10.0,10827.99,Nashik,Maharashtra,UPI,Pending,Mobile App,1.0,cust1051@example.com,False
+ORD100513,CUST1060,Rohan,2026-04-22,Mobile,Electronics,3,30866.51,,92599.53,Nashik,Maharashtra,Credit Card,Completed,Mobile App,5.0,cust1060@example.com,False
+ORD100514,CUST1117,Akash,2025-12-05,Monitor,Electronics,2,13001.43,,26002.87,Nagpur,Maharashtra,Net Banking,Pending,Website,1.0,cust1117@example.com,False
+ORD100515,CUST1015,Anjali,2025-12-23,Monitor,Electronics,4,11477.42,5.0,43614.19,Nashik,Maharashtra,Cash,Completed,Website,4.0,cust1015@example.com,False
+ORD100516,CUST1102,Kiran,2025-11-06,Mobile,Electronics,5,27425.54,,137127.72,Chennai,Tamil Nadu,Net Banking,Pending,Marketplace,2.0,cust1102@example.com,False
+ORD100517,CUST1032,Anjali,2025-08-02,Desk,Furniture,4,10045.33,15.0,34154.13,Bangalore,Karnataka,Net Banking,Pending,Store,5.0,cust1032@example.com,False
+ORD100518,CUST1031,Rohan,2026-09-03,Headphones,Electronics,5,2307.16,15.0,9805.44,Mumbai,Maharashtra,Debit Card,Cancelled,Website,4.0,cust1031@example.com,True
+ORD100519,CUST1040,Pooja,2026-09-03,Backpack,Accessories,5,2281.62,0.0,11408.12,Mumbai,Maharashtra,Debit Card,Pending,Website,1.0,cust1040@example.com,True
+ORD100520,CUST1105,Neha,2026-06-29,Headphones,Electronics,2,2324.61,,4649.22,Pune,Maharashtra,Net Banking,Cancelled,Marketplace,2.0,cust1105@example.com,True
+ORD100521,CUST1088,Akash,2026-03-22,Monitor,Electronics,5,11530.92,,57654.6,Delhi,Delhi,UPI,Cancelled,Website,5.0,cust1088@example.com,False
+ORD100522,CUST1052,Amit,2025-02-24,Headphones,Electronics,1,2700.54,10.0,2430.48,Delhi,Delhi,Cash,Completed,Website,3.0,cust1052@example.com,True
+ORD100523,CUST1031,Pooja,2026-01-26,Backpack,Accessories,3,2148.43,,6445.28,Nagpur,Maharashtra,Cash,Completed,Mobile App,4.0,cust1031@example.com,True
+ORD100524,CUST1025,Rahul,2026-11-18,Desk,Furniture,3,10239.39,15.0,26110.44,Nagpur,Maharashtra,Credit Card,Completed,Website,,cust1025@example.com,True
+ORD100525,CUST1019,Rohan,2026-03-02,Office Chair,Furniture,2,7883.27,0.0,15766.55,Nagpur,Maharashtra,Cash,Pending,Mobile App,4.0,cust1019@example.com,False
+ORD100526,CUST1055,Anjali,2026-03-11,Desk,Furniture,4,10396.63,10.0,37427.87,Nashik,Maharashtra,UPI,Cancelled,Marketplace,,cust1055@example.com,True
+ORD100527,CUST1092,Amit,2025-02-04,Desk,Furniture,4,11167.98,20.0,35737.52,Delhi,Delhi,Cash,Pending,Store,1.0,cust1092@example.com,False
+ORD100528,CUST1062,Kiran,2025-03-22,Mobile,Electronics,5,29789.62,10.0,134053.28,Bangalore,Karnataka,Cash,Completed,Mobile App,4.0,cust1062@example.com,False
+ORD100529,CUST1095,Amit,2026-07-02,Mobile,Electronics,5,32421.51,0.0,162107.56,Delhi,Delhi,Net Banking,Pending,Marketplace,5.0,cust1095@example.com,False
+ORD100530,CUST1043,Anjali,2026-12-13,Backpack,Accessories,3,2053.7,10.0,5545.0,Chennai,Tamil Nadu,Debit Card,Returned,Store,1.0,cust1043@example.com,False
+ORD100531,CUST1061,Anjali,2025-10-26,Tablet,Electronics,5,22687.81,0.0,113439.04,Bangalore,Karnataka,UPI,Completed,Marketplace,1.0,cust1061@example.com,True
+ORD100532,CUST1065,Neha,2025-10-09,Mobile,Electronics,3,30694.79,5.0,87480.14,Delhi,Delhi,UPI,Returned,Website,5.0,cust1065@example.com,True
+ORD100533,CUST1117,Priya,2025-09-25,Tablet,Electronics,4,23354.5,10.0,84076.2,Bangalore,Karnataka,Net Banking,Completed,Website,3.0,cust1117@example.com,True
+ORD100534,CUST1019,Rohan,2025-09-01,Tablet,Electronics,4,23189.62,15.0,78844.7,Bangalore,Karnataka,Credit Card,Completed,Store,1.0,cust1019@example.com,False
+ORD100535,CUST1034,Rohan,2025-11-05,Mobile,Electronics,2,29392.47,15.0,49967.2,Pune,Maharashtra,Cash,Completed,Marketplace,,cust1034@example.com,False
+ORD100536,CUST1050, neha ,2025-01-13,Office Chair,Furniture,2,9129.47,20.0,14607.16,Delhi,Delhi,Net Banking,Pending,Store,5.0,cust1050@example.com,False
+ORD100537,CUST1006,Akash,2025-10-07,Mobile,Electronics,4,32508.25,20.0,104026.41,Chennai,Tamil Nadu,Debit Card,Completed,Website,3.0,cust1006@example.com,False
+ORD100538,CUST1075,Kiran,2025-07-19,Backpack,Accessories,2,2275.63,,4551.26,Nashik,Maharashtra,Debit Card,Returned,Mobile App,3.0,cust1075@example.com,False
+ORD100539,CUST1002,Rohan,2025-04-17,Laptop,Electronics,1,59770.08,15.0,50804.57,Mumbai,Maharashtra,Debit Card,Completed,Store,3.0,cust1002@example.com,True
+ORD100540,CUST1005,Anjali,2025-08-11,Laptop,Electronics,1,67035.87,20.0,53628.7,Mumbai,Maharashtra,UPI,Returned,Website,1.0,cust1005@example.com,False
+ORD100541,CUST1017,Rohan,2025-10-29,Backpack,Accessories,1,2061.08,,2061.08,Bangalore,Karnataka,UPI,Returned,Marketplace,3.0,cust1017@example.com,False
+ORD100542,CUST1089,Pooja,2025-03-05,Monitor,Electronics,2,11465.49,0.0,22930.98,Delhi,Delhi,Net Banking,Completed,Website,3.0,cust1089@example.com,False
+ORD100543,CUST1023,Rohan,2025-07-02,Office Chair,Furniture,4,8687.51,5.0,33012.55,Mumbai,Maharashtra,UPI,Completed,Marketplace,2.0,cust1023@example.com,False
+ORD100544,CUST1083,Anjali,2025-03-14,Mobile,Electronics,3,27209.17,0.0,81627.5,Nashik,Maharashtra,Debit Card,Pending,Website,4.0,cust1083@example.com,True
+ORD100545,CUST1084,Pooja,2025-12-04,Laptop,Electronics,4,60470.9,10.0,217695.23,Pune,Maharashtra,Cash,Completed,Marketplace,4.0,cust1084@example.com,False
+ORD100546,CUST1052,Sneha,2026-05-09,Mobile,Electronics,1,32724.93,15.0,27816.19,Hyderabad,Telangana,Cash,Cancelled,Store,3.0,cust1052@example.com,False
+ORD100547,CUST1039,Sneha,2025-12-15,Backpack,Accessories,1,2215.24,10.0,1993.71,Pune,Maharashtra,Net Banking,Completed,Mobile App,2.0,cust1039@example.com,False
+ORD100548,CUST1006,Akash,2025-04-20,Backpack,Accessories,3,2151.65,,6454.94,Hyderabad,Telangana,Net Banking,Completed,Marketplace,,cust1006@example.com,True
+ORD100549,CUST1018,Rohan,2025-09-02,Laptop,Electronics,1,71452.99,,71452.99,Hyderabad,Telangana,Net Banking,Completed,Store,4.0,cust1018@example.com,False
+ORD100550,CUST1107,Pooja,2025-02-13,Office Chair,Furniture,1,7745.29,10.0,6970.76,Pune,Maharashtra,UPI,Completed,Marketplace,,cust1107@example.com,False
+ORD100551,CUST1020,Amit,2026-05-16,Tablet,Electronics,1,23036.02,0.0,23036.02,Hyderabad,Telangana,Net Banking,Cancelled,Website,2.0,cust1020@example.com,False
+ORD100552,CUST1084,Sneha,2025-11-11,Headphones,Electronics,2,2274.98,,4549.96,Pune,Maharashtra,Net Banking,Cancelled,Mobile App,5.0,cust1084@example.com,True
+ORD100553,CUST1105,Sneha,2025-08-14,Mobile,Electronics,4,31795.05,20.0,101744.16,Mumbai,Maharashtra,Credit Card,Pending,Store,,cust1105@example.com,False
+ORD100554,CUST1052,Amit,2025-08-07,Monitor,Electronics,5,11129.59,20.0,44518.36,Mumbai,Maharashtra,Cash,Completed,Store,1.0,cust1052@example.com,True
+ORD100555,CUST1036,Rohan,2025-06-18,Headphones,Electronics,2,2434.96,,4869.93,Nagpur,Maharashtra,Credit Card,Cancelled,Website,2.0,cust1036@example.com,True
+ORD100556,CUST1102,Amit,2025-03-24,Tablet,Electronics,2,23670.36,0.0,47340.72,Nagpur,Maharashtra,UPI,Completed,Website,,cust1102@example.com,False
+ORD100557,CUST1076,Neha,2025-05-27,Mouse,Accessories,4,832.84,,3331.36,Nagpur,Maharashtra,Cash,Pending,Marketplace,2.0,cust1076@example.com,True
+ORD100558,CUST1079,Neha,2026-10-05,Laptop,Electronics,4,70853.87,20.0,226732.4,Bangalore,Karnataka,Debit Card,Pending,Website,5.0,cust1079@example.com,True
+ORD100559,CUST1025,Kiran,2026-07-07,Mobile,Electronics,5,32176.39,10.0,144793.74,Mumbai,Maharashtra,Credit Card,Pending,Mobile App,3.0,cust1025@example.com,True
+ORD100560,CUST1025,Amit,2026-11-18,Mobile,Electronics,4,28057.94,15.0,95397.01,Bangalore,Karnataka,UPI,Returned,Store,3.0,cust1025@example.com,True
+ORD100561,CUST1056,Kiran,2025-02-23,Mouse,Accessories,5,817.8,15.0,3475.64,Chennai,Tamil Nadu,Credit Card,Completed,Website,4.0,cust1056@example.com,False
+ORD100562,CUST1015,Priya,2026-03-06,Mobile,Electronics,4,30478.57,20.0,97531.43,Hyderabad,Telangana,Debit Card,Completed,Website,3.0,cust1015@example.com,True
+ORD100563,CUST1013,Rohan,2025-03-17,Keyboard,Accessories,2,1940.89,15.0,3299.52,Nagpur,Maharashtra,Cash,Pending,Website,4.0,cust1013@example.com,True
+ORD100564,CUST1028,Priya,2026-04-14,Tablet,Electronics,2,21443.33,15.0,36453.67,Nashik,Maharashtra,Debit Card,Completed,Mobile App,3.0,cust1028@example.com,True
+ORD100565,CUST1005,Rohan,2026-04-22,Tablet,Electronics,3,20288.88,5.0,57823.31,Pune,Maharashtra,Net Banking,Completed,Store,2.0,cust1005@example.com,False
+ORD100566,CUST1078,Pooja,2025-03-30,Headphones,Electronics,5,2677.5,20.0,10710.01,Bangalore,Karnataka,Cash,Pending,Mobile App,5.0,cust1078@example.com,False
+ORD100567,CUST1108,Priya,2025-09-10,Office Chair,Furniture,1,8377.79,,8377.79,Delhi,Delhi,Debit Card,Pending,Mobile App,5.0,cust1108@example.com,True
+ORD100568,CUST1117,Kiran,2026-04-27,Tablet,Electronics,4,19976.26,0.0,79905.03,Pune,Maharashtra,UPI,Pending,Marketplace,4.0,cust1117@example.com,False
+ORD100569,CUST1106,Pooja,2025-01-13,Mobile,Electronics,4,27498.55,5.0,104494.49,Nashik,Maharashtra,Credit Card,Completed,Store,3.0,cust1106@example.com,True
+ORD100570,CUST1083,Rohan,2026-12-22,Mobile,Electronics,4,28829.02,,115316.08,Pune,Maharashtra,Cash,Returned,Website,4.0,cust1083@example.com,False
+ORD100571,CUST1099,Amit,2026-12-22,Headphones,Electronics,2,2563.41,10.0,4614.13,Nagpur,Maharashtra,UPI,Pending,Store,5.0,cust1099@example.com,True
+ORD100572,CUST1038,Sneha,2025-08-01,Backpack,Accessories,5,2233.1,20.0,8932.4,Delhi,Delhi,Cash,Completed,Website,5.0,cust1038@example.com,False
+ORD100573,CUST1047,Akash,2025-02-11,Laptop,Electronics,4,64549.59,10.0,232378.51,Mumbai,Maharashtra,Debit Card,Completed,Website,5.0,cust1047@example.com,False
+ORD100574,CUST1100,Rohan,2026-10-27,Keyboard,Accessories,3,1814.27,5.0,5170.66,Bangalore,Karnataka,Cash,Returned,Mobile App,,cust1100@example.com,True
+ORD100575,CUST1042,Sneha,2025-02-25,Monitor,Electronics,5,11815.03,,59075.15,Delhi,Delhi,Debit Card,Completed,Marketplace,4.0,cust1042@example.com,False
+ORD100576,CUST1068,Rohan,2025-10-27,Mobile,Electronics,5,31952.27,,159761.37,Nashik,Maharashtra,Cash,Completed,Website,2.0,cust1068@example.com,False
+ORD100577,CUST1012,Sneha,2025-03-20,Mobile,Electronics,2,32749.54,10.0,58949.17,Nagpur,Maharashtra,Credit Card,Completed,Website,,cust1012@example.com,True
+ORD100578,CUST1064,Kiran,2026-03-03,Headphones,Electronics,5,2261.35,,11306.73,Hyderabad,Telangana,Credit Card,Pending,Store,4.0,cust1064@example.com,False
+ORD100579,CUST1095,Kiran,2025-08-26,Laptop,Electronics,2,58786.48,0.0,117572.95,Delhi,Delhi,Debit Card,Pending,Store,,cust1095@example.com,False
+ORD100580,CUST1101,Rohan,2026-07-16,Monitor,Electronics,5,12472.47,,62362.36,Nashik,Maharashtra,Net Banking,Completed,Mobile App,3.0,cust1101@example.com,True
+ORD100581,CUST1102,Rahul,2025-02-18,Mouse,Accessories,4,984.73,10.0,3545.03,Hyderabad,Telangana,Debit Card,Completed,Marketplace,2.0,cust1102@example.com,False
+ORD100582,CUST1119,Rahul,2026-12-11,Headphones,Electronics,2,2669.67,5.0,5072.37,Delhi,Delhi,Credit Card,Completed,Website,1.0,cust1119@example.com,False
+ORD100583,CUST1074,Amit,2026-07-30,Headphones,Electronics,3,2342.25,10.0,6324.07,Nashik,Maharashtra,Debit Card,Completed,Mobile App,3.0,cust1074@example.com,False
+ORD100584,CUST1070,Rahul,2026-05-27,Headphones,Electronics,1,2452.28,0.0,2452.28,Delhi,Delhi,Net Banking,Completed,Mobile App,1.0,cust1070@example.com,False
+ORD100585,CUST1070,Rahul,2026-08-11,Desk,Furniture,3,11871.15,15.0,30271.43,Chennai,Tamil Nadu,Cash,Returned,Marketplace,3.0,cust1070@example.com,False
+ORD100586,CUST1015,Amit,2025-11-12,Office Chair,Furniture,2,8586.63,,17173.26,Pune,Maharashtra,Net Banking,Cancelled,Mobile App,4.0,cust1015@example.com,False
+ORD100587,CUST1012,Priya,2026-06-24,Monitor,Electronics,5,11268.36,,56341.8,Pune,Maharashtra,Debit Card,Completed,Website,1.0,cust1012@example.com,False
+ORD100588,CUST1109,Anjali,2025-11-22,Office Chair,Furniture,5,7980.57,15.0,33917.4,Mumbai,Maharashtra,Cash,Cancelled,Website,,cust1109@example.com,False
+ORD100589,CUST1051,Akash,2025-10-19,Headphones,Electronics,3,2436.42,15.0,6212.86,Nagpur,Maharashtra,Debit Card,Completed,Marketplace,5.0,cust1051@example.com,True
+ORD100590,CUST1028,Pooja,2026-03-11,Office Chair,Furniture,4,7928.44,10.0,28542.4,Nagpur,Maharashtra,Credit Card,Cancelled,Website,2.0,cust1028@example.com,True
+ORD100591,CUST1039,Amit,2025-04-01,Office Chair,Furniture,1,8935.39,20.0,7148.32,Chennai,Tamil Nadu,Net Banking,Returned,Store,4.0,cust1039@example.com,True
+ORD100592,CUST1072,Kiran,2025-10-24,Office Chair,Furniture,2,9064.88,5.0,17223.28,Bangalore,Karnataka,Net Banking,Completed,Store,5.0,cust1072@example.com,False
+ORD100593,CUST1064,Neha,2025-06-07,Desk,Furniture,2,11640.68,0.0,23281.37,Nashik,Maharashtra,Debit Card,Returned,Marketplace,1.0,cust1064@example.com,False
+ORD100594,CUST1086,Priya,2026-10-23,Mouse,Accessories,2,973.22,15.0,1654.48,Nagpur,Maharashtra,UPI,Completed,Store,4.0,cust1086@example.com,True
+ORD100595,CUST1077,Rohan,2026-10-06,Monitor,Electronics,5,12884.03,15.0,54757.13,Nashik,Maharashtra,UPI,Completed,Website,3.0,cust1077@example.com,True
+ORD100596,CUST1075,Akash,2025-05-19,Laptop,Electronics,3,69918.12,15.0,178291.22,Bangalore,Karnataka,Credit Card,Completed,Store,3.0,cust1075@example.com,False
+ORD100597,CUST1082,Kiran,2025-03-20,Monitor,Electronics,3,12071.07,10.0,32591.89,Pune,Maharashtra,Credit Card,Returned,Mobile App,1.0,cust1082@example.com,False
+ORD100598,CUST1097,Akash,2025-10-05,Headphones,Electronics,3,2649.94,,7949.82,Chennai,Tamil Nadu,UPI,Cancelled,Store,2.0,cust1097@example.com,True
+ORD100599,CUST1018,Sneha,2025-06-16,Desk,Furniture,3,10806.39,15.0,27556.29,Delhi,Delhi,Credit Card,Completed,Mobile App,2.0,cust1018@example.com,False
+ORD100600,CUST1079,Rahul,2025-04-30,Desk,Furniture,4,11915.27,15.0,40511.91,Mumbai,Maharashtra,UPI,Pending,Store,3.0,cust1079@example.com,False
